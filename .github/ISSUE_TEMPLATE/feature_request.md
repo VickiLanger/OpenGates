@@ -16,4 +16,4 @@ assignees: ''
 ## So that...
  - 
 
-*Don't forget to checkout [AntiGatekeep Checklist for Content Creation](https://vickilanger.github.io/AntiGatekeep/) and follow the bot on [Twitter](TBD) to see the hard work you put in.*
+*Don't forget to checkout [AntiGatekeep Checklist for Content Creation](https://vickilanger.github.io/OpenGates/) and follow the bot on [Twitter](TBD) to see the hard work you put in.*
