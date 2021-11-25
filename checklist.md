@@ -11,7 +11,8 @@ The checklist is broken down into sections to help us understand how each item h
  - [ ] Images should vary in age, ability, race, nationality, gender, 
  - [ ] Example names should be different from the status quo
  - [ ] Lists of people should not be homogenous
- - [ ] item
+ - [ ] Avoid ableist language
+    - [ ] ~~Crazy~~: instead try "absurd", "irrational", "ridiculous", "silly", "exciting", "infatuated" [reference](https://therollingexplorer.com/ableist-language-to-avoid-and-acceptable-alternatives-crazy-edition/)
  - [ ] item
  - [ ] item
 
