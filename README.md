@@ -21,7 +21,7 @@ It is *your job* to make sure that **every** piece of content you put out is inc
 
 If you would like to contribute, feel free to make a pull request.
 
-First time? I suggest starting with adding some checklist items to `TBD`. Check out [issue #1 to add items](https://github.com/VickiLanger/AntiGatekeep/issues/1) for more details.
+First time? I suggest starting with adding some checklist items to `checklist.md`. Check out [issue #1 to add items](https://github.com/VickiLanger/AntiGatekeep/issues/1) for more details.
 
 If you need more of a step-by-step, skim through [this article about making your first contribution](https://dev.to/vickilanger/open-up-to-open-source-contributing-5hla).
 
