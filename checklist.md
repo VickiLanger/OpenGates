@@ -22,7 +22,7 @@ The checklist is broken down into sections to help us understand how each item h
  - [ ] Avoid assuming your reader is male. (eg using "he" for all examples)
  - [ ] Do make use of "they" as a gender neutral option
  - [ ] Explain things in ways it will be realatable to as many people as possible
- - [ ] item
+ - [ ] Avoid words like "normal". Try "common" instead
  - [ ] item
 
 
