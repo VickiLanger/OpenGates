@@ -62,13 +62,25 @@ The checklist is broken down into sections to help us understand how each item h
     - [ ] ~~blacklist / whitelist~~: instead try block, deny, exclude and allow, pass, trust, include, safe respectively  ([ref](https://www.selfdefined.app/definitions/blacklist-whitelist/))
     - [ ] ~~Master / slave~~: instead try 
     - [ ] ~~Colorblind, "I don't see color"~~ ([ref](https://medium.com/@tinu/what-you-erase-when-you-say-i-dont-see-color-73360346afa7))
-    - [ ] ~~Savage, barbaric~~  ([ref](https://www.selfdefined.app/definitions/savage/))  ([ref](https://www.selfdefined.app/definitions/barbaric/))
+    - [ ] ~~Savage, barbaric~~  ([ref](https://www.selfdefined.app/definitions/savage/)), ([ref](https://www.selfdefined.app/definitions/barbaric/))
 
 ### Make People Feel Welcome
  - [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc). Instead, try qualifying the difficulty: "This may be easy if you alread do [this thing]."
+ - [ ] State required knowledge up front. (eg "We're assuming your familiar with concepts a, b, and c")
+    - [ ] If concept knowledge is assumed, try offering a place to learn those concepts
+    - [ ] Did you include anything beyond basic math (+ - * / )? If so, mention that there is a specific math prerequisite
  - [ ] Explain things in ways it will be realatable to as many people as possible
+ - [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc
+    - [ ] Where single letter variable names are common practice (eg `i`, `k`, `v` etc), explain what they stand for
+ - [ ] Did you say something is simplified? Try demonstrating what was simplified. Maybe show the hard/long way then the new better way
+ - [ ] <!--Don't talk down to non-engineering teammates and end users!-->
  - [ ] Avoid words like "normal". Try "common" instead
- - [ ] item
+ - [ ] 
+
+#### For In person Events
+ - [ ] Announce the code of conduct on event pages and the opening announcements
+ - [ ] And "no photos" stickers for ppl who don't want to be in photos
+ - [ ] Having @PronounTown stickers available at badge pickup
 
 
 ### Accessibility (a11y) is a right
@@ -80,8 +92,8 @@ People should be able see and read even with impaired vision
  - [ ] Tested with Screen Reader
  - [ ] AA or AAA level color contrast ratios ([test them here](http://colorsafe.co/))
  - [ ] Avoid "fancy lettering" and odd capitalisation ([ref](https://www.selfdefined.app/definitions/spongebob-case/))
- - [ ] item
- - [ ] item
+ - [ ] Include transcripts for audio content
+ - [ ] Include subtitles for video content
 
 #### Operable
  - [ ] Keyboard navigation works
@@ -92,11 +104,6 @@ People should be able see and read even with impaired vision
 #### Organized
 organized and use language that most people understand
  - [ ] Headings used appropriately
- - [ ] item
- - [ ] item
- - [ ] item
- - [ ] item
- - [ ] item
 
 ---
 This is a living document. This means it will be updated and there may be changes since last time you visited. 
