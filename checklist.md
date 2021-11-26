@@ -90,6 +90,13 @@ The checklist is broken down into sections to help us understand how each item h
  - [ ] Avoid words like "normal". Try "common" instead
  - [ ] 
 
+#### Content warnings in articles, podcasts, tech talks, etc
+
+- [ ] Include trigger warnings for discussions and images of violence, harassment, triggering historical events, and other triggering or traumatic topics so attendees can leave an event if needed.
+- [ ] Avoid, or have content warnings for, rapidly-flashing lights and loud noises to make content accessible to people who are photosensitive, or have difficulties with sensory processing.
+- [ ] For generative art demonstrations, avoid, or have content warnings for, content that may make someone dizzy.
+- [ ] For podcasts and videos, you can include, or request that your podcast host include, timestamps in the description of the content to indicate where people can skip to in order to avoid content being warned about.
+
 #### For In person Events
  - [ ] Announce the code of conduct on event pages and the opening announcements
    - [ ] Include information on how to contact the event's organizers or code of conduct team if harassment takes place
