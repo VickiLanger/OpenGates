@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Fira+Code&family=Nunito:ital,wght@0,400;0,700;1,400&display=swap');
 
+:root {
+    --dark-color: #0B3C41;
+    --light-color: #f4f4f4;
+  }
+
+
+body {
+    background-color: var(--light-color);
+}
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Comfortaa', cursive;
+    color: var(--dark-color);
 }
 
 p {
@@ -18,4 +28,8 @@ ul {
 
 li {
     line-height: 110%;
+}
+
+footer {
+    background-color: var(--dark-color);
 }
