@@ -12,3 +12,10 @@ code {
     font-family: 'Fira Code', monospace;
 }
 
+ul {
+    line-height: 110%;
+}
+
+li {
+    line-height: 110%;
+}
