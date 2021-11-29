@@ -28,7 +28,7 @@ OpenGates Checklist has been adopted by developer content creators since 2021. H
 |[Vicki Langer](https://twitter.com/VickiLanger)|Writing dev.to content & a beginners python book|
 |You|...|
 
-Want to be added here? Add yourself... (TODO: make a add yourself issue)
+Want to be added here? [Here's how.](https://github.com/VickiLanger/OpenGates#registering-your-community-as-an-adopter)
 
 ### Contributors of OpenGates
 OpenGates would be nothing without our awesome contributors. We appreciate single person who has take the time to help OpenGates reduce gatekeeping in our dev communities.
