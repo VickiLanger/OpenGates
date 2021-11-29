@@ -5,7 +5,7 @@ permalink: /checklist/
 ---
 
 
-*Avoid Gatekeeping in your content creation**
+*Avoid Gatekeeping in your content creation*
 
 A reference checklist of things to help you avoid gatekeeping in your dev posts, articles, videos, talks, presentations, podcasts, sites, and in any other content.
 
