@@ -41,6 +41,7 @@ a {
     background-clip: text;
     -webkit-background-clip: text;
     margin: auto;
+    text-decoration: none;
 }
 
 a:hover {
