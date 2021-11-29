@@ -8,8 +8,6 @@ permalink: /checklist/
 *Avoid Gatekeeping in your content creation**
 A reference checklist of things to help you avoid gatekeeping in your dev posts, articles, videos, talks, presentations, podcasts, sites, and in any other content.
 
-It is _your job_ to make sure that **every** piece of content you put out is inclusive, welcoming, and accessible to all. This checklist is here to make your life easier. No longer will you need to remember every single thing you need to do in order to stop accidental gatekeeping of CodeNewbies and newer programmers when creating and building. Do know that depending on what you are building, some of the list items may not apply.
-
 ## OpenGates Checklist
 
 The checklist is broken down into sections to help us understand how each item helps.
