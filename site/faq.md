@@ -5,12 +5,10 @@ permalink: /faq/
 ---
 
 # OpenGates FAQ
-We strive to make OpenGates as user-friendly and comprehensive as possible, but sometimes thigns are missed. Hopefully
-this FAQ section helps.
+We strive to make OpenGates as user-friendly and comprehensive as possible, but sometimes things are missed. Hopefully, this FAQ section helps.
 
 ## But you don't have [this very important item]!
-This list is not comprehensive as culture changes and we are all always learning. We'd love your help. If you'd like to
-add something to this list, you may:
+This list is not comprehensive as culture changes and we are all always learning. We'd love your help. If you'd like to add something to this list, you may:
 - [add the item yourself](https://github.com/VickiLanger/OpenGates/issues/1)
 - [ask us to add the item - leave a comment](https://github.com/VickiLanger/OpenGates/issues/1)
 - send a message to
