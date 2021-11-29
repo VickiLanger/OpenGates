@@ -23,6 +23,13 @@ Access the latest version of OpenGates Checklist here:
 ### Adopters of OpenGates
 OpenGates Checklist has been adopted by developer content creators since 2021. Here are some of our adopters:
 
+|                                               | What you use OpenGates for |
+|-----------------------------------------------|:--------------------------:|
+|[Vicki Langer](https://twitter.com/VickiLanger)|Writing dev.to content & a beginners python book|
+|You|...|
+
+Want to be added here? Add yourself... (TODO: make a add yourself issue)
+
 ### Contributors of OpenGates
 OpenGates would be nothing without our awesome contributors. We appreciate single person who has take the time to help OpenGates reduce gatekeeping in our dev communities.
 
