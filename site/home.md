@@ -1,10 +1,10 @@
 ---
 layout: page
-title: OpenGates Anti-Gatekeeping Checklist
+title: OpenGates Checklist
 permalink: /
 ---
 
-## A Checklist for Dev Content Creators
+## An Anti-Gatekeeping Checklist for Dev Content Creators
 
 ### Before You Use the Checklist
 It’s important to understand that just using OpenGates will not magically prevent gatekeeping or toxicity in your content. You and your team will need to make concious efforts to work on the items on the list.

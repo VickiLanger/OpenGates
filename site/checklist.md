@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenGates "Anti-gatekeeping" Checklist
+title: OpenGates Checklist
 permalink: /checklist/
 ---
 
@@ -9,7 +9,7 @@ permalink: /checklist/
 
 A reference checklist of things to help you avoid gatekeeping in your dev posts, articles, videos, talks, presentations, podcasts, sites, and in any other content.
 
-## OpenGates Checklist
+## Anti-gatekeeping Checklist
 
 The checklist is broken down into sections to help us understand how each item helps us open gates and avoid gatekeeping.
 
