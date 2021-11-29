@@ -128,7 +128,7 @@ People should be able see and read even with impaired vision
 - [ ] Avoid "fancy lettering" and odd capitalisation ([ref](https://www.selfdefined.app/definitions/spongebob-case/))
 - [ ] Include transcripts for audio content 
 - [ ] Include subtitles for video content 
-- [ ] Don't rely on bold/intalics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
+- [ ] Don't rely on bold/italics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
 
 #### Operable
 - [ ] Keyboard navigation works
