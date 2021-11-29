@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenGates Checklist
-permalink: /checklist
+permalink: /checklist/
 ---
 
 
