@@ -23,7 +23,7 @@ OpenGates Checklist has been adopted by developer content creators since 2021. H
 
 |                                               | What you use OpenGates for |
 |-----------------------------------------------|:--------------------------:|
-|[Vicki Langer](https://twitter.com/VickiLanger)|Writing dev.to content & a beginners python book|
+|[Vicki Langer](https://twitter.com/Vicki_Langer)|Writing dev.to content & a beginners python book|
 |You|...|
 
 Want to be added here? [Here's how.](https://github.com/VickiLanger/OpenGates#registering-your-community-as-an-adopter)
