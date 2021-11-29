@@ -10,7 +10,7 @@ A reference checklist of things to help you avoid gatekeeping in your dev posts,
 
 ## OpenGates Checklist
 
-The checklist is broken down into sections to help us understand how each item helps.
+The checklist is broken down into sections to help us understand how each item helps us open gates and avoid gatekeeping.
 
 ### Inclusion
  - [ ] Images should vary in age, ability, race, nationality, gender, 
