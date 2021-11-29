@@ -12,6 +12,7 @@ header, footer {
 body {
     background-color: var(--light-color);
     width: 100%;
+    height:100%;
     margin: auto; /*center all the things*/
 }
 
