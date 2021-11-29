@@ -1,3 +1,9 @@
+---
+layout: page
+title: OpenGates "Anti-gatekeeping" Checklist
+permalink: /checklist/
+---
+
 # Welcome to OpenGates
 *Avoid Gatekeeping in your content creation**
 A reference checklist of things to help you avoid gatekeeping in your dev posts, articles, videos, talks, presentations, podcasts, sites, and in any other content.
@@ -134,8 +140,3 @@ People should be able see and read even with impaired vision
 #### Organized
 organized and use language that most people understand
 - [ ] Headings used appropriately
-
----
-This is a living document. This means it will be updated and there may be changes since last time you visited. 
-
-We strive to make OpenGates as user-friendly and comprehensive as possible, but sometimes thigns are missed. They will be added as soon as you or I have the time to add them. If you'd like to help add them, here's [a link to links to help with that](https://github.com/VickiLanger/AntiGatekeep/blob/main/faq.md#but-you-dont-have-this-very-important-item).

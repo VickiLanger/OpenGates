@@ -1,15 +1,34 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <title>OpenGates</title>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
-
-    {{ content }}
-
+    <nav>
+        <a href="/">Home</a>
+        <!--TODO:
+        <a href="/adopters/">Adopters</a>
+        <a href="/translations/">Translations</a>
+        -->
+        <a href="/FAQ/">FAQ</a>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    <section>
+        {{ content }}
+    </section>
+    <footer>
+        <p>This is a living document. This means it will be updated and there may be changes since last time you
+            visited.</p>
+        <p>We strive to make OpenGates as user-friendly and comprehensive as possible, but sometimes things are missed.
+            They will be added as soon as you or I have the time to add them. If you'd like to help add them, here's <a
+                href="https://github.com/VickiLanger/AntiGatekeep/blob/main/faq.md#but-you-dont-have-this-very-important-item"
+                target="_blank"> link to links to help with that</a></p>.
+        </p>
+    </footer>
 </body>
 
 </html>
