@@ -5,11 +5,16 @@
     --light-color: #f4f4f4;
 }
 
+header, footer {
+    background-color: var(--dark-color);
+}
+
 body {
     background-color: var(--light-color);
     width: 100%;
-    /*TODO: center everything*/
+    margin: auto; /*center all the things*/
 }
+
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Comfortaa', cursive;
     color: var(--dark-color);
@@ -20,12 +25,12 @@ p {
     color: var(--dark-color);
 }
 
-#footer-text, #header-text {
-    color: var(--light-color);
-}
-
 code {
     font-family: 'Fira Code', monospace;
+}
+
+#footer-text, #header-text {
+    color: var(--light-color);
 }
 
 ul {
@@ -34,8 +39,4 @@ ul {
 
 li {
     line-height: 110%;
-}
-
-header, footer {
-    background-color: var(--dark-color);
 }
