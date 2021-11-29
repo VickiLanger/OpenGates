@@ -18,8 +18,9 @@ body {
 }
 
 section{
-    padding: 10%;
-    margin: auto; /*center all the things*/
+    padding-left: 15%;
+    padding-right: 15%;
+    margin: auto; /*failed to center all the things*/
 }
 
 h1,h2,h3,h4,h5,h6 {
