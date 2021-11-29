@@ -3,6 +3,8 @@
 :root {
     --dark-color: #333;
     --light-color: #f4f4f4;
+    --heading-font: 'Comfortaa', cursive;;
+    --text-font: 'Nunito', sans-serif;;
 }
 
 header, footer {
@@ -19,18 +21,19 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Comfortaa', cursive;
+    font-family: var(--heading-font);
     color: var(--dark-color);
     margin: auto; /*center headings*/
 }
 
 p {
-    font-family: 'Nunito', sans-serif;
+    font-family: var(--text-font);
     color: var(--dark-color);
 }
 
 a { 
-    color: black;
+    font-family: var(--text-font);
+    color: var(--dark-color);
     font-weight: bold;
     background: linear-gradient(135deg, red, orange, yellow, green, blue, purple);
     background-clip: text;
