@@ -15,7 +15,6 @@ body {
     height:100%;
     font-size: 14px;
     padding: 10%;
-    display: flex;
     align-items: center; /*center all the things*/
 }
 
@@ -33,7 +32,7 @@ p {
 a { 
     color: black;
     font-weight: bold;
-    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    background: linear-gradient(135deg, red, orange, yellow, green, blue, purple);
     background-clip: text;
     -webkit-background-clip: text;
     margin: auto;
@@ -42,6 +41,10 @@ a {
 a:hover {
     color: transparent;
     transition: 250ms ease;
+}
+
+a:active {
+    color: rgba(0,0,0,.5);
 }
 
 code {
