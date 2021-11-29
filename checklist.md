@@ -73,7 +73,7 @@ The checklist is broken down into sections to help us understand how each item h
 
 #### Age inclusion
 - [ ] Ensure explanations will make sense to the age of your audience
-- [ ] item
+- [ ] Avoid assuming in-depth computer knowledge
 - [ ] Avoid ageist language
     - [ ] not ~~So easy Grandma could do it~~ → refrain from use 
     - [ ] not ~~Entitled [insert generation]~~ → refrain from use
@@ -92,8 +92,6 @@ The checklist is broken down into sections to help us understand how each item h
 - [ ] Did you say something is simplified? Try demonstrating what was simplified. Maybe show the hard/long way then the new better way
 - [ ] <!--Don't talk down to non-engineering teammates and end users!-->
 - [ ] not ~~normal~~ → **common**, **typical**, **frequent**
-
-    - When conveying a product's usability for people who do not regularly use computers, indicate what makes something usable or familiar
 
 
 #### For In person Events
