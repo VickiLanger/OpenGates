@@ -122,12 +122,12 @@ Many of these items will be guided by: https://www.w3.org/WAI/policies/?q=access
 
 #### Percievable
 People should be able see and read even with impaired vision
-- [ ] Images have Alternative Text if the text is short, or `alt=""` plus surrounding descriptive text, if the description of the image is long.
-- [ ] Tested with Screen Reader
-- [ ] AA or AAA level color contrast ratios ([test them here](http://colorsafe.co/))
+- [ ] Images have Alternative Text ([ref](https://moz.com/learn/seo/alt-text))
+- [ ] Tested with Screen Reader ([test here](https://webaim.org/simulations/screenreader)) ([ref](https://www.tpgi.com/screen-readers-accessibility-testing/#:~:text=If%20you%20test%20for%20accessibility,a%20poor%20user%20experience%20exists.))
+- [ ] AA or AAA level color contrast ratios ([test here](http://colorsafe.co/))
 - [ ] Avoid "fancy lettering" and odd capitalisation ([ref](https://www.selfdefined.app/definitions/spongebob-case/))
-- [ ] Include transcripts for audio content
-- [ ] Include subtitles for video content
+- [ ] Include transcripts for audio content 
+- [ ] Include subtitles for video content 
 - [ ] Don't rely on bold/intalics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
 
 #### Operable
