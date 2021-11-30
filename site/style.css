@@ -25,7 +25,7 @@ nav{
 
 header{
     background-color: var(--dark-color);
-    font-size: 0.6rem; /*12px*/
+    font-size: 0.7rem; /*14px*/
     text-align: center;
     padding: .75rem; /*16px*/
 }
@@ -95,13 +95,15 @@ li {
 /* footer stuffs */
 footer {
     background-color: var(--dark-color);
-    font-size: 0.6rem; /*12px*/
+    font-size: 0.7rem; /*14px*/
     text-align: center;
-    padding: .75rem; /*16px*/
+    padding: .5rem; /*10px*/
     margin: auto;
 }
 .footer-box{
     width: 28%;
-    border: 3px solid red;
+    border: 3px double var(--light-color);
     display: inline-block;
+    margin: 1rem;
+    padding: 0.1rem;
 }
