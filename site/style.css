@@ -67,6 +67,10 @@ a {
     margin-left: .1rem;
 }
 
+#light-link {
+    color: var(--light-color);
+}
+
 a:hover {
     color: transparent;
     transition: 250ms ease;
