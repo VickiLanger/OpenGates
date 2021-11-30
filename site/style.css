@@ -73,7 +73,7 @@ a {
 }
 
 a:hover {
-    color: transparent;
+    color: transparent !important;
     transition: 250ms ease;
     font-size: 1.2rem;
 }
