@@ -3,6 +3,7 @@
 :root {
     --dark-color: #333;
     --light-color: #f4f4f4;
+    --fun-color: #E17C12;
     --heading-font: 'Comfortaa', cursive;
     --text-font: 'Nunito', sans-serif;
     font-size: 20px;
@@ -25,14 +26,14 @@ nav{
 }
 
 header{
-    background-color: var(--dark-color);
+    background-color: var(--fun-color);
     text-align: center;
     padding: .75rem; /*16px*/
     margin-bottom: 1rem;
 }
 
 #header-title{
-    color: var(--light-color);
+    color: var(--text-color);
 }
 
 section{
@@ -43,14 +44,14 @@ section{
 
 h1,h2,h3,h4,h5,h6 {
     font-family: var(--heading-font);
-    color: var(--dark-color);
+    color: var(--text-color);
     margin: auto; /*center headings*/
     margin-top: 1rem;
 }
 
 p {
     font-family: var(--text-font);
-    color: var(--dark-color);
+    color: var(--text-color);
     hyphens: auto;
     margin: .75rem; /*16px*/
 }
@@ -78,8 +79,12 @@ a:active {
 code {
     font-family: 'Fira Code', monospace;
     letter-spacing: .0625rem;
-    background-color: var(--dark-color);
-    color: orange;
+    background-color: var(--text-color);
+    color: var(--fun-color);
+}
+
+img {
+    width: 50%;
 }
 
 #footer-text, #header-text {
@@ -92,18 +97,18 @@ ul, ol {
     list-style-position: outside;
     margin: 1.5rem 0 1.5rem 1.5rem;
     font-family: var(--text-font);
-    color: var(--dark-color);
+    color: var(--text-color);
 }
 
 li {
     margin-bottom: .275rem;
     font-family: var(--text-font);
-    color: var(--dark-color);
+    color: var(--text-color);
 }
 
 /* footer stuffs */
 footer {
-    background-color: var(--dark-color);
+    background-color: var(--fun-color);
     text-align: center;
     padding: .5rem; /*10px*/
     margin: auto;

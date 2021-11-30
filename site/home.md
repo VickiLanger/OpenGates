@@ -4,6 +4,9 @@ title: OpenGates Checklist
 permalink: /
 ---
 
+![img: Says "OpenGates" "An Anti-Gatekeeping Checklist for Dev Content Creators" and has an image of gates opening to a bunch of humaaaans people doing computer things. People are of varying ages, color, abilities](/site/og_img.png)
+
+
 ### Before You Use the Checklist
 It’s important to understand that just using OpenGates will not magically prevent gatekeeping or toxicity in your content. You and your team will need to make concious efforts to work on the items on the list.
 
