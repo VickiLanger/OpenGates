@@ -57,6 +57,7 @@ p {
 }
 
 a { 
+    color: var(--dark-color);
     font-family: var(--text-font);
     font-weight: bold;
     background: linear-gradient(135deg, red, orange, yellow, green, blue, purple);
@@ -68,7 +69,7 @@ a {
 }
 
 #light-link {
-    color: var(--light-color);
+    color: var(--light-color) !important;
 }
 
 a:hover {
@@ -88,7 +89,7 @@ code {
     color: var(--heading-color);
 }
 
-img {
+#open-gate-img {
     width: 50%;
     text-align: center;
 }

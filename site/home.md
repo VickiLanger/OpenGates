@@ -4,7 +4,7 @@ title: OpenGates Checklist
 permalink: /
 ---
 
-![img: Says "OpenGates" "An Anti-Gatekeeping Checklist for Dev Content Creators" and has an image of gates opening to a bunch of humaaaans people doing computer things. People are of varying ages, color, abilities](/site/og_img.png)
+![img: Says "OpenGates" "An Anti-Gatekeeping Checklist for Dev Content Creators" and has an image of gates opening to a bunch of humaaaans people doing computer things. People are of varying ages, color, abilities](/site/og_img.png){:#open-gate-img}
 
 
 ### Before You Use the Checklist
