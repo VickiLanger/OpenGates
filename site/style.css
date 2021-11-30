@@ -73,6 +73,7 @@ code {
     font-family: 'Fira Code', monospace;
     letter-spacing: .0625rem;
     background-color: var(--dark-color);
+    color: orange;
 }
 
 #footer-text, #header-text {
@@ -86,6 +87,5 @@ ul, ol {
 }
 
 li {
-    margin-bottom: .375rem;
-    color: orange;
+    margin-bottom: .375rem;;
 }
