@@ -138,6 +138,7 @@ People should be able see and read even with impaired vision
 - [ ] Include transcripts for audio content ([ref coming soon](TODO))
 - [ ] Include subtitles for video content ([ref coming soon](TODO))
 - [ ] Don't rely on bold/italics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
+- [ ] Use `rem` and `em` instead of px ([ref](https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0))
 
 #### Operable
 - [ ] Keyboard navigation works ([ref coming soon](TODO))
