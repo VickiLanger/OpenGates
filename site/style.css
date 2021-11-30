@@ -89,7 +89,7 @@ img {
 }
 
 #footer-text, #header-text {
-    color: var(--light-color);
+    color: var(--dark-color);
     font-size: 0.8rem; /*14px*/
 }
 
