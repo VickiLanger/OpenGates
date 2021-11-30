@@ -94,14 +94,14 @@ The checklist is broken down into sections to help us understand how each item h
 
 ### Make People Feel Welcome
 - [ ] Warn before discussion/images of triggering/traumatic topics ([ref coming soon](TODO))
-- [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc). Instead, try qualifying the difficulty: "This may be easy if you already do [this thing]." ([ref coming soon](TODO))
+- [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc). Instead, qualify the difficulty: "This may be easy if you already know [this thing]." ([ref coming soon](TODO))
 - [ ] State required knowledge up front. (eg "We're assuming your familiar with concepts a, b, and c") ([ref coming soon](TODO))
     - [ ] If concept knowledge is assumed, offer a place to learn those concepts
     - [ ] Did you include anything beyond basic math (+ - * / )? If so, mention that there is a specific math prerequisite
 - [ ] Explain things in ways it will be realatable to as many people as possible
 - [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc ([ref coming soon](TODO))
     - [ ] Where single letter variable names are common practice (eg `i`, `k`, `v` etc), explain what they stand for
-- [ ] Did you say something is simplified? Try demonstrating what was simplified. Maybe show the hard/long way then the new better way ([ref coming soon](TODO))
+- [ ] Did you say something is simplified? Demonstrate what was simplified ([ref coming soon](TODO))
 - [ ] <!--Don't talk down to non-engineering teammates and end users!-->
 - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
 
