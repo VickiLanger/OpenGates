@@ -9,7 +9,7 @@
 
 html {
     height: 100%;
-    font-size: .74rem;
+    font-size: 1.44rem;
 }
 
 body {
@@ -19,14 +19,12 @@ body {
 }
 
 nav{
-    display: inline-flex;
-    list-style-type: none;
     margin: auto;
 }
 
 header, footer {
     background-color: var(--dark-color);
-    font-size: .875rem;
+    font-size: 1.25rem;
     text-align: center;
     padding: 1.5rem;
     text-align: center;
