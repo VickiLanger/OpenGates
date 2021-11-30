@@ -76,7 +76,7 @@ code {
     color: orange;
 }
 
-#footer-text, #header-text {
+#footer-text, #header-text, #footer-link {
     color: var(--light-color);
 }
 
