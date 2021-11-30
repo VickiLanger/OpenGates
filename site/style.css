@@ -46,7 +46,7 @@ p {
     font-family: var(--text-font);
     color: var(--dark-color);
     hyphens: auto;
-    margin: 1.5rem 0;
+    margin: 1.0rem;
 }
 
 a { 
@@ -72,6 +72,7 @@ a:active {
 code {
     font-family: 'Fira Code', monospace;
     letter-spacing: .0625rem;
+    background-color: var(--dark-color);
 }
 
 #footer-text, #header-text {
