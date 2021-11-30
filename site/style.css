@@ -23,7 +23,7 @@ nav{
     margin: 1rem;
 }
 
-header, footer {
+header{
     background-color: var(--dark-color);
     font-size: 0.6rem; /*12px*/
     text-align: center;
@@ -90,4 +90,18 @@ li {
     margin-bottom: .275rem;
     font-family: var(--text-font);
     color: var(--dark-color);
+}
+
+/* footer stuffs */
+footer {
+    background-color: var(--dark-color);
+    font-size: 0.6rem; /*12px*/
+    text-align: center;
+    padding: .75rem; /*16px*/
+    margin: auto;
+}
+.footer-box{
+    width: 28%;
+    border: 3px solid red;
+    display: inline-block;
 }
