@@ -23,8 +23,8 @@ It is *your job* to make sure that **every** piece of content you put out is inc
 3. Open a pull request.
 
 ```
-[Vicki Langer](https://twitter.com/Vicki_Langer) → Writing dev.to content & a beginners python book
-[You]() → something awesome?
+ - [Vicki Langer](https://twitter.com/Vicki_Langer) → Writing dev.to content & a beginners python book
+ - [You]() → something awesome?
 ```
 
 ## Contributing
