@@ -4,7 +4,7 @@
     --heading-color: #034;
     --text-color: #333;
     --light-color: #f4f4f4;
-    --fun-color: #f2a130;
+    --bright-color: rgba(155, 48, 242, 0.5);
     --heading-font: 'Comfortaa', cursive;
     --text-font: 'Nunito', sans-serif;
     font-size: 20px;
@@ -27,7 +27,7 @@ nav{
 }
 
 header{
-    background-color: var(--fun-color);
+    background-color: var(--bright-color);
     text-align: center;
     padding: .75rem; /*16px*/
     margin-bottom: 1rem;
@@ -71,6 +71,7 @@ a {
 a:hover {
     color: transparent;
     transition: 250ms ease;
+    font-size: 1.2rem;
 }
 
 a:active {
@@ -81,7 +82,7 @@ code {
     font-family: 'Fira Code', monospace;
     letter-spacing: .0625rem;
     background-color: var(--text-color);
-    color: var(--fun-color);
+    color: var(--light-color);
 }
 
 img {
@@ -110,7 +111,7 @@ li {
 
 /* footer stuffs */
 footer {
-    background-color: var(--fun-color);
+    background-color: var(--bright-color);
     text-align: center;
     padding: .5rem; /*10px*/
     margin: auto;
