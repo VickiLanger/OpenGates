@@ -9,7 +9,7 @@
 
 html {
     height: 100%;
-    font-size: 1.44rem;
+    font-size: 1.24rem;
 }
 
 body {
@@ -19,7 +19,7 @@ body {
 }
 
 nav{
-    margin: auto;
+    margin: 20px;
 }
 
 header, footer {
