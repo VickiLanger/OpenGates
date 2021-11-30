@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Fira+Code&family=Nunito:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
-    --heading-color: #034;
-    --text-color: #333;
+    --heading-color: #f2a130;
+    --dark-color: #333;
     --light-color: #f4f4f4;
-    --bright-color: rgba(155, 48, 242, 0.5);
     --heading-font: 'Comfortaa', cursive;
     --text-font: 'Nunito', sans-serif;
     font-size: 20px;
@@ -27,7 +26,7 @@ nav{
 }
 
 header{
-    background-color: var(--bright-color);
+    background-color: var(--dark-color);
     text-align: center;
     padding: .75rem; /*16px*/
     margin-bottom: 1rem;
@@ -45,14 +44,14 @@ section{
 
 h1,h2,h3,h4,h5,h6 {
     font-family: var(--heading-font);
-    color: var(--heading-color);
+    color: var(--dark-color);
     margin: auto; /*center headings*/
     margin-top: 1rem;
 }
 
 p {
     font-family: var(--text-font);
-    color: var(--text-color);
+    color: var(--dark-color);
     hyphens: auto;
     margin: .75rem; /*16px*/
 }
@@ -81,8 +80,8 @@ a:active {
 code {
     font-family: 'Fira Code', monospace;
     letter-spacing: .0625rem;
-    background-color: var(--text-color);
-    color: var(--light-color);
+    background-color: var(--dark-color);
+    color: var(--heading-color);
 }
 
 img {
@@ -91,7 +90,7 @@ img {
 }
 
 #footer-text, #header-text {
-    color: var(--dark-color);
+    color: var(--light-color);
     font-size: 0.8rem; /*14px*/
 }
 
@@ -100,18 +99,18 @@ ul, ol {
     list-style-position: outside;
     margin: 1.5rem 0 1.5rem 1.5rem;
     font-family: var(--text-font);
-    color: var(--text-color);
+    color: var(--dark-color);
 }
 
 li {
     margin-bottom: .275rem;
     font-family: var(--text-font);
-    color: var(--text-color);
+    color: var(--dark-color);
 }
 
 /* footer stuffs */
 footer {
-    background-color: var(--bright-color);
+    background-color: var(--dark-color);
     text-align: center;
     padding: .5rem; /*10px*/
     margin: auto;
