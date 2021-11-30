@@ -87,6 +87,7 @@ code {
     letter-spacing: .0625rem;
     background-color: var(--dark-color);
     color: var(--heading-color);
+    border-radius: 0.3rem;
 }
 
 #open-gate-img {
