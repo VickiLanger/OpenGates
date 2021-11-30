@@ -119,7 +119,7 @@ The checklist is broken down into sections to help us understand how each item h
 
 ### Accessibility (a11y) is a right
 Accessibility is a right. Yes, literally it is the law in some countries.
-Many of these items will be guided by: https://www.w3.org/WAI/policies/?q=accessibility-law
+Many of these items will be guided by: [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/?q=accessibility-law)
 
 #### Saftey
 - [ ] warn for rapidly-flashing lights ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
