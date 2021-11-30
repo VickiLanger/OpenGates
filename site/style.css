@@ -28,6 +28,7 @@ header{
     background-color: var(--dark-color);
     text-align: center;
     padding: .75rem; /*16px*/
+    color: var(--light-color);
 }
 
 section{
