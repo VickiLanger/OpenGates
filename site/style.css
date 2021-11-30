@@ -28,6 +28,9 @@ header{
     background-color: var(--dark-color);
     text-align: center;
     padding: .75rem; /*16px*/
+}
+
+#header-title{
     color: var(--light-color);
 }
 
