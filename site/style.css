@@ -85,6 +85,7 @@ code {
 
 img {
     width: 50%;
+    text-align: center;
 }
 
 #footer-text, #header-text {
