@@ -44,6 +44,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: var(--heading-font);
     color: var(--dark-color);
     margin: auto; /*center headings*/
+    margin-top: 1rem;
 }
 
 p {
