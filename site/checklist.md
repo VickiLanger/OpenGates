@@ -79,6 +79,9 @@ The checklist is broken down into sections to help us understand how each item h
     - [ ] not ~~Colorblind, "I don't see color"~~ → refrain from use ([ref](https://medium.com/@tinu/what-you-erase-when-you-say-i-dont-see-color-73360346afa7))
     - [ ] not ~~Savage, barbaric~~ → **cruel**, **cold-blooded** ([ref](https://www.selfdefined.app/definitions/savage/)), ([ref](https://www.selfdefined.app/definitions/barbaric/))
 
+#### Ethnic Inclusion
+- [ ] Ensure you have used Latina and Hispanic correctly ([ref](https://www.yesprep.org/news/blog/featured/~board/blog/post/hispanic-vs-latinos-vs-latinx-explained))
+
 #### Age inclusion
 - [ ] Ensure explanations will make sense to the age of your audience
 - [ ] Avoid assuming in-depth computer knowledge
