@@ -10,7 +10,7 @@
 
 html {
     height: 100%;
-    font-size: 1rem; /*20px*/
+    font-size: .8rem; /*18px*/
 }
 
 body {
@@ -25,10 +25,9 @@ nav{
 
 header, footer {
     background-color: var(--dark-color);
-    font-size: 0.75rem; /*16px*/
+    font-size: 0.6rem; /*12px*/
     text-align: center;
-    padding: 1.5rem; /*30px*/
-    text-align: center;
+    padding: .75rem; /*16px*/
 }
 
 section{
@@ -47,7 +46,7 @@ p {
     font-family: var(--text-font);
     color: var(--dark-color);
     hyphens: auto;
-    margin: 1.0rem; /*20px*/
+    margin: .75rem; /*16px*/
 }
 
 a { 
