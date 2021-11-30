@@ -88,6 +88,7 @@ code {
     background-color: var(--dark-color);
     color: var(--heading-color);
     border-radius: 0.3rem;
+    padding: 4px 5px 5px;
 }
 
 #open-gate-img {
