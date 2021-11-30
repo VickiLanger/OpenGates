@@ -103,7 +103,6 @@ footer {
 }
 .footer-box{
     width: 28%;
-    border: 5px double var(--light-color);
     display: inline-block;
     margin: 1rem;
     padding: 0.1rem;
