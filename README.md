@@ -19,12 +19,12 @@ It is *your job* to make sure that **every** piece of content you put out is inc
 
 ## Add Your Community as an Adopter
 1. Fork the repository.
-2. Add a new row to [adopters section on homepage](https://github.com/VickiLanger/OpenGates/blob/main/site/home.md#adopters-of-opengates), with your community, project's name, or company linked to your site in the first column, and what you're using OpenGates for in the second column. Example below
+2. Add a new row to [adopters section on homepage](https://github.com/VickiLanger/OpenGates/blob/main/site/home.md#adopters-of-opengates), with your community, project's name, or company linked to your site in the first column. Then, after the arrow add what you're using OpenGates for in the second column. Example below
 3. Open a pull request.
 
 ```
-|[Vicki Langer](https://twitter.com/VickiLanger)|Writing dev.to content & a beginners python book|
-|[Some Company](url.co)|Podcasts, Streaming, Meetups, Dev Rel stuff, etc|
+[Vicki Langer](https://twitter.com/Vicki_Langer) → Writing dev.to content & a beginners python book
+[You]() → something awesome?
 ```
 
 ## Contributing
