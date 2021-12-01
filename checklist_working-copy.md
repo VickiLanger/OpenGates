@@ -27,7 +27,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [Operable](#operable)
     - [Organized](#organized)
 
-### Inclusion <a name="inclusion"></a>
+### Inclusion <a name="inclusion" id="jump-nav"></a>
  - [ ] Images should vary in age, ability, race, nationality, gender, body types ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Example names should be different from the status quo ([ref](https://www.christytuckerlearning.com/diverse-characters-in-learning-scenarios/))
  - [ ] Lists of people should not be homogenous ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
@@ -36,7 +36,7 @@ The checklist is **not** in order of importance. It is broken down into sections
  - [ ] Who is missing or excluded? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] item ([ref](TODO))
 
-#### Gender Inclusion <a name="gender"></a>
+#### Gender Inclusion <a name="gender" id="jump-nav"></a>
  - [ ] Avoid using gendered words and colloquialisms ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
  - [ ] Have you used “man”, or “men” or words containing them to refer to people who may not be men? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
  - [ ] Have you used “he,” “him,” “his,” or “himself” to refer to people who may not be men? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
@@ -45,7 +45,7 @@ The checklist is **not** in order of importance. It is broken down into sections
  - [ ] Do you provide the same kinds of information and descriptions when writing about people of different genders? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
  - [ ] Do make use of "they" as a gender neutral option? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
 
-#### Cultural Inclusion <a name="culture"></a>
+#### Cultural Inclusion <a name="culture" id="jump-nav"></a>
 - [ ] Avoid cultural appropriation ([ref](https://au.reachout.com/articles/why-cultural-appropriation-isnt-cool))
     - [ ] not ~~Guru~~ → **expert**, **teacher** ([ref](https://www.dictionary.com/e/stop-using-in-2020?utm_medium=referral&utm_source=idealist))
     - [ ] not ~~Spirit animal~~ → **personal mascot** ([ref](https://www.selfdefined.app/definitions/pow-wow/))
@@ -62,7 +62,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~"Gypsy"~~ → refrain from use ([ref](https://now.org/blog/the-g-word-isnt-for-you-how-gypsy-erases-romani-women/))
     - [ ] not ~~"Karma"~~ → **comeuppance** ([ref coming soon](TODO))
 
-#### Disability Inclusion <a name="disability"></a>
+#### Disability Inclusion <a name="disability" id="jump-nav"></a>
 - [ ] Avoid inspiration porn ([ref](https://www.youtube.com/watch?v=SxrS7-I_sMQ))
 - [ ] When discussing a product, indicate what makes it accessible ([ref coming soon](TODO))
 - [ ] Avoid ableist language ([ref](http://web.augsburg.edu/english/writinglab/Avoiding_Ableist_Language.pdf)), ([ref](https://www.unr.edu/nevada-today/blogs/2020/avoiding-ableist-terminology))
@@ -82,7 +82,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~Bipolar~~ →  **unpredictable**, **flippant** ([ref](https://ibpf.org/articles/please-stop-saying-bipolar-when-you-mean-unpredictable-or-broken/))
     - [ ] not ~~Tone deaf~~ → **insensitive**, **in bad taste** ([ref](https://www.selfdefined.app/definitions/tone-deaf/))
 
-#### Race Inclusion <a name="race"></a>
+#### Race Inclusion <a name="race" id="jump-nav"></a>
 - [ ] Ensure capitalization of "Black" ([ref](https://apnews.com/article/entertainment-cultures-race-and-ethnicity-us-news-ap-top-news-7e36c00c5af0436abc09e051261fff1f))
 - [ ] Avoid racial appropriation ([ref coming soon](TODO))
     - [ ] Refrain from digital Blackface ([ref](https://www.selfdefined.app/definitions/digital-blackface/))
@@ -93,10 +93,10 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~Colorblind, "I don't see color"~~ → refrain from use ([ref](https://medium.com/@tinu/what-you-erase-when-you-say-i-dont-see-color-73360346afa7))
     - [ ] not ~~Savage, barbaric~~ → **cruel**, **cold-blooded** ([ref](https://www.selfdefined.app/definitions/savage/)), ([ref](https://www.selfdefined.app/definitions/barbaric/))
 
-#### Ethnic Inclusion <a name="ethnicity"></a>
+#### Ethnic Inclusion <a name="ethnicity" id="jump-nav"></a>
 - [ ] Ensure you have used Latina and Hispanic correctly ([ref](https://www.yesprep.org/news/blog/featured/~board/blog/post/hispanic-vs-latinos-vs-latinx-explained))
 
-#### Age inclusion <a name="age"></a>
+#### Age inclusion <a name="age" id="jump-nav"></a>
 - [ ] Ensure explanations will make sense to the age of your audience ([ref coming soon](TODO))
 - [ ] Avoid assuming in-depth computer knowledge ([ref coming soon](TODO))
 - [ ] Avoid ageist language ([ref coming soon](TODO))
@@ -105,7 +105,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 
 
 
-### Make People Feel Welcome <a name="welcome"></a>
+### Make People Feel Welcome <a name="welcome" id="jump-nav"></a>
 - [ ] Warn before discussion/images of triggering/traumatic topics ([ref coming soon](TODO))
 - [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc). Instead, qualify the difficulty: "This may be easy if you already know [this thing]." ([ref coming soon](TODO))
 - [ ] State required knowledge up front. (eg "We're assuming your familiar with concepts a, b, and c") ([ref coming soon](TODO))
@@ -119,7 +119,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
 
 
-#### For In person Events <a name="events"></a>
+#### For In person Events <a name="events" id="jump-nav"></a>
 - [ ] Discuss Code of Conduct (CoC) on event pages and in opening announcements ([ref coming soon](TODO))
     - [ ] Include event organizer or CoC team contact info if harassment takes place ([ref coming soon](TODO))
 - [ ] Have "no photos" stickers available at badge pickup ([ref coming soon](TODO))
@@ -130,17 +130,17 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave ([ref coming soon](TODO))
 
 
-### Accessibility (a11y) is a right <a name="a11y"></a>
+### Accessibility (a11y) is a right <a name="a11y" id="jump-nav"></a>
 Accessibility is a right. Yes, literally it is the law in some countries.
 Many of these items will be guided by: [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/?q=accessibility-law)
 
-#### Saftey <a name="safety"></a>
+#### Saftey <a name="safety" id="jump-nav"></a>
 - [ ] warn for rapidly-flashing lights ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
 - [ ] warn for loud noises ([ref coming soon](TODO))
 - [ ] warn for anything that could make someone dizzy ([ref coming soon](TODO))
 - [ ] include timestamps for where to skip to to avoid warned content ([ref coming soon](TODO))
 
-#### Percievable <a name="percievable"></a>
+#### Percievable <a name="percievable" id="jump-nav"></a>
 People should be able see and read even with impaired vision
 - [ ] Images have Alternative Text ([ref](https://moz.com/learn/seo/alt-text))
 - [ ] Tested with Screen Reader ([test here](https://webaim.org/simulations/screenreader)) ([ref](https://www.tpgi.com/screen-readers-accessibility-testing/#:~:text=If%20you%20test%20for%20accessibility,a%20poor%20user%20experience%20exists.))
@@ -151,12 +151,12 @@ People should be able see and read even with impaired vision
 - [ ] Don't rely on bold/italics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
 - [ ] Use `rem` and `em` instead of px ([ref](https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0))
 
-#### Operable <a name="operable"></a>
+#### Operable <a name="operable" id="jump-nav"></a>
 - [ ] Keyboard navigation works ([ref coming soon](TODO))
 - [ ] Responsive ([ref coming soon](TODO))
 - [ ] Works on different devices and browsers ([ref coming soon](TODO))
 - [ ] Works with Assistive Technology ([ref coming soon](TODO))
 
-#### Organized <a name="oragnaized"></a>
+#### Organized <a name="oragnaized" id="jump-nav"></a>
 Arranged in a way that makes sense and use language that most people understand
 - [ ] Headings used appropriately ([ref coming soon](TODO))

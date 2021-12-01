@@ -36,6 +36,10 @@ header{
     color: var(--heading-color);
 }
 
+#jump-nav{
+    margin-bottom: .075rem;
+}
+
 section{
     padding-left: 15%;
     padding-right: 15%;
