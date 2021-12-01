@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frequently Asked Questions
+title: OpenGates - Frequently Asked Questions
 permalink: /faq/
 ---
 
