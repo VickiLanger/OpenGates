@@ -38,6 +38,7 @@ header{
 
 #jump-nav{
     margin-bottom: .075rem;
+    font-size: .7rem; /*14px*/
 }
 
 section{
@@ -106,15 +107,15 @@ code {
 }
 
 ul, ol {
-    line-height: 1.5;
+    line-height: 1.3;
     list-style-position: outside;
-    margin: 1.5rem 0 1.5rem 1.5rem;
+    margin: .2rem 0 1.2em .2rem;
     font-family: var(--text-font);
     color: var(--dark-color);
 }
 
 li {
-    margin-bottom: .275rem;
+    margin-bottom: .2rem;
     font-family: var(--text-font);
     color: var(--dark-color);
 }
