@@ -128,3 +128,24 @@ footer {
     margin: 1rem;
     padding: 0.1rem;
 }
+
+/*collapsing sections*/
+details {
+    color: var(--dark-color);
+}
+details summary {
+    margin-bottom: 0.8em;
+}
+details summary::before {
+    font-family: FontAwesome;
+    font-size: 1.2em;
+    content: "\f152";
+    float: left;
+    margin-right: 0.4em;
+}
+details summary::-webkit-details-marker {
+    display: none;
+}
+details.open summary::before, details[open] summary::before {
+    content: "\f150";
+}

@@ -47,7 +47,8 @@
         </div>
         <div class="footer-box">
             <p id="footer-text">We strive to make OpenGates as user-friendly and comprehensive as possible, but
-                sometimes things are missed. They will be added as soon as you tell us **and** you or I have the time to
+                sometimes things are missed. They will be added as soon as you tell us <strong>and</strong> you or I
+                have the time to
                 add them.
             </p>
             <p id="footer-text">If you'd like to tell us about something we missed or help add them,
@@ -70,5 +71,10 @@
         </div>
     </footer>
 </body>
+<!--These 4 script tags help support details tag if needed http://movb.de/jekyll-details-support.html-->
+<script src="/js/zepto.min.js"></script>
+<script>jQuery = Zepto;</script>
+<script src="/js/jquery.details.min.js"></script>
+<script>$('details').details();</script>
 
 </html>
