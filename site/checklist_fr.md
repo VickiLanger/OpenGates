@@ -4,19 +4,18 @@ title: OpenGates Checklist
 permalink: /checklist/fr
 ---
 
-
-Une liste de contrôle de référence pour vous aider à éviter le contrôle d'accès dans vos publications, articles, vidéos, discussions, présentations, podcasts, sites et dans tout autre contenu de développement. 
+Une liste de contrôle de référence pour vous aider à éviter les barrières à l'entrée dans vos publications, articles, vidéos, discussions, présentations, podcasts, sites et dans tout autre contenu de développement. 
 
 ## Liste de contrôle anti-gardien
 
-La liste de contrôle est divisée en sections pour nous aider à ouvrir les portes et à éviter le contrôle de ces portes.
+La liste de contrôle est divisée en sections pour vous aider à comprendre comment chaque point aide à faciliter l'accès et à éviter toute barrière à l'entrée
 
 **Aller à:**
 // A FAIRE: les liens seront bientôt ajoutés
 
 ### Inclusion
- - [ ] Les images doivent varier en fonction de l'âge, des capacités physiques et mentales, du peuple, de la nationnalité, du genre et des types de corps ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
- - [ ] Les exemples de noms doivent être différents du status ([ref](https://www.christytuckerlearning.com/diverse-characters-in-learning-scenarios/))
+ - [ ] Les images doivent présenter des personnes d'âge, de capacités physiques et mentales, d'origine, de genre et de types de corps variés ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
+ - [ ] Les exemples de noms utilisés doivent sortir du status quo ([ref](https://www.christytuckerlearning.com/diverse-characters-in-learning-scenarios/))
  - [ ] La liste des personnes ne doit pas être homogène ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Est-ce que tous ceux qui pourraient voir cela seraient d'accord avec la façon dont ils sont représentés ? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Y a-t-il des stéréotypes perpétués ? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
@@ -30,7 +29,7 @@ La liste de contrôle est divisée en sections pour nous aider à ouvrir les por
  - [ ] Si vous avez mentionné le sexe ou le genre de quelqu'un, était-il nécessaire de le faire ? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
  - [ ] Utilisez-vous des stéréotypes professionnels (ou autres) ? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
  - [ ] Fournissez-vous les mêmes types d'informations et de descriptions lorsque vous écrivez sur des personnes de genres différents ?([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
- - [ ] Utilisez-vous « ils » comme une option neutre en termes de genre ? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
+ - [ ] Utilisez-vous « iel » comme une option neutre en termes de genre ? ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
 
 #### Inclusion Culturelle
 - [ ] Éviter l'appropriation culturelle ([ref](https://au.reachout.com/articles/why-cultural-appropriation-isnt-cool))
@@ -52,14 +51,14 @@ La liste de contrôle est divisée en sections pour nous aider à ouvrir les por
 #### Inclusion du Handicap
 - [ ] Éviter l'inspiration porno ([ref](https://www.youtube.com/watch?v=SxrS7-I_sMQ))
 - [ ] Lorsque vous discutez d'un produit, indiquez ce qui le rend accessible ([ref bientôt disponible](A FAIRE))
-- [ ] Éviter le langage capacitiste ([ref](http://web.augsburg.edu/english/writinglab/Avoiding_Ableist_Language.pdf)), ([ref](https://www.unr.edu/nevada-today/blogs/2020/avoiding-ableist-terminology))
+- [ ] Éviter le langage capacitiste/le validisme  ([ref](http://web.augsburg.edu/english/writinglab/Avoiding_Ableist_Language.pdf)), ([ref](https://www.unr.edu/nevada-today/blogs/2020/avoiding-ableist-terminology))
     - [ ] pas ~~normal~~ → **commun**, **typique**, **fréquent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
     - [ ] pas ~~Fou, dingo, insensé~~ → **bizarre**, **enorme**, **inconnu** ([ref](https://www.selfdefined.app/definitions/crazy/))
-    - [ ] pas ~~Vérification sanitaire~~ → **contrôle confidentiel**, **contrôle de la température** ([ref](https://www.selfdefined.app/definitions/sanity-check/))
+    <!-- - [ ] pas ~~Vérification sanitaire~~ → **contrôle confidentiel**, **contrôle de la température** ([ref](https://www.selfdefined.app/definitions/sanity-check/)) -->
     - [ ] pas ~~Crétin, idiot~~ → À déterminer ([ref](https://www.selfdefined.app/definitions/idiot/))
     - [ ] pas ~~Bête, stupide~~ → **déraisonnable**, **étrange** ([ref](https://www.selfdefined.app/definitions/stupid/))
     - [ ] pas ~~Ridicule~~ → **ridicule**, **insensé**, **idiot** ([ref](https://www.selfdefined.app/definitions/derpy/))
-    - [ ] pas ~~Retard*, *tard~~ →  s'abstenir de l'utiliser ([ref](https://www.selfdefined.app/definitions/r-word/))
+    - [ ] pas ~~Handicapé~~ →  s'abstenir de l'utiliser ([ref](https://www.selfdefined.app/definitions/r-word/))
     - [ ] pas ~~Boiteux, estropié~~ → **désactivé** ([ref](https://www.selfdefined.app/lame/))
     - [ ] pas ~~Psychopathe, fou, maniaque~~ →  s'abstenir de l'utiliser ([ref](https://www.lpaonline.org/the-m-word))
     - [ ] pas ~~Drogué~~ → **amateur**, **mordu**, **enthousiaste** ([ref](https://www.selfdefined.app/definitions/junkie/))
@@ -76,7 +75,7 @@ La liste de contrôle est divisée en sections pour nous aider à ouvrir les por
 - [ ] Évitez les termes et expressions racistes
     - [ ] pas ~~Grand-père~~ → **héritage**, **historique** ([ref](https://www.selfdefined.app/definitions/grandfathering/))
     - [ ] pas ~~liste noire / liste blanche~~ → **bloquer/autoriser**, **nier/faire confiance**, **exclure/inclure** ([ref](https://www.selfdefined.app/definitions/blacklist-whitelist/))
-    - [ ] pas ~~Maître d'esclave~~ →  **primaire/réplique**, **tronc/branche**, **parent/enfant** ([ref](https://www.selfdefined.app/definitions/master-slave/))
+    - [ ] pas ~~Maître/Esclave~~ →  **primaire/réplique**, **tronc/branche**, **parent/enfant** ([ref](https://www.selfdefined.app/definitions/master-slave/))
     - [ ] pas ~~Daltonien, "Je ne vois pas la couleur"~~ → s'abstenir de l'utiliser ([ref](https://medium.com/@tinu/what-you-erase-when-you-say-i-dont-see-color-73360346afa7))
     - [ ] pas ~~Sauvage, barbare~~ → **cruel**, **sang froid** ([ref](https://www.selfdefined.app/definitions/savage/)), ([ref](https://www.selfdefined.app/definitions/barbaric/))
 
@@ -94,7 +93,7 @@ La liste de contrôle est divisée en sections pour nous aider à ouvrir les por
 
 ### Faites en sorte que les gens se sentent les bienvenus
 - [ ] Avertir avant discussion/images de sujets déclencheurs/traumatiques ([ref bientôt disponible](A FAIRE))
-- [ ] Évitez d'utiliser des mots qui rendent les choses faciles (par exemple, simple, juste, direct, etc.). Au lieu de cela, qualifiez la difficulté : « Cela peut être facile si vous connaissez déjà [cette chose] ». ([ref bientôt disponible](A FAIRE))
+- [ ] Évitez d'utiliser des mots qui laissent entendre que des choses faciles (par exemple, simple, juste, direct, etc.). Au lieu de cela, qualifiez la difficulté : « Cela peut être facile si vous connaissez déjà [cette chose] ». ([ref bientôt disponible](A FAIRE))
 - [ ] Énoncez les connaissances requises à l'avance. (par exemple "Nous supposons que vous êtes familier avec les concepts a, b et c") ([ref bientôt disponible](A FAIRE))
     - [ ] Si la connaissance des concepts est supposée, offrez un endroit pour apprendre ces concepts
     - [ ] Avez-vous inclus autre chose que les mathématiques de base (+ - * / ) ? Si oui, mentionnez qu'il y a un prérequis mathématique spécifique
