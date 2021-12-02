@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenGates Checklist
-permalink: /checklist/
+permalink: /future-version/
 ---
 
 
@@ -34,7 +34,6 @@ The checklist is **not** in order of importance. It is broken down into sections
  - [ ] Can everyone who might view this to see someone like themselves represented in it? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Are any stereotypes being perpetuated? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Who is missing or excluded? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
- - [ ] item ([ref](TODO))
 
 #### Gender Inclusion <a name="gender" id="jump-nav"></a>
  - [ ] Avoid using gendered words and colloquialisms ([ref](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/))
@@ -49,7 +48,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Avoid cultural appropriation ([ref](https://au.reachout.com/articles/why-cultural-appropriation-isnt-cool))
     - [ ] not ~~Guru~~ → **expert**, **teacher** ([ref](https://www.dictionary.com/e/stop-using-in-2020?utm_medium=referral&utm_source=idealist))
     - [ ] not ~~Spirit animal~~ → **personal mascot** ([ref](https://www.selfdefined.app/definitions/pow-wow/))
-    - [ ] not ~~Pow-wow~~ → if you meant "meeting", [look up some synonyms](https://www.thesaurus.com/browse/meeting)). ([ref](https://www.selfdefined.app/definitions/pow-wow/))
+    - [ ] not ~~Pow-wow~~ → if you meant "meeting", [look up some synonyms](https://www.thesaurus.com/browse/meeting)) ([ref](https://www.selfdefined.app/definitions/pow-wow/))
     - [ ] not ~~Tribe~~ → refrain from use, or replace it with a term without appropriation like "close group of friends" ([ref](https://www.selfdefined.app/definitions/tribe/))
     - [ ] not ~~Totemic animal~~ → refrain from use ([ref](https://www.selfdefined.app/definitions/totemic-animal/))
 - [ ] Avoid culturally offensives terms and phrases
@@ -60,23 +59,24 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~"Indian time", "Indian summer"~~ → refrain from use ([ref](https://www.ictinc.ca/blog/culturally-offensive-phrases-you-should-use-at))
     - [ ] not ~~"Gypped/Jewed"~~ → **scammed**, **ripped off** ([ref](http://meloukhia.net/2011/02/language_matters_no_gypped_is_not_a_good_alternative_to_jewed/))
     - [ ] not ~~"Gypsy"~~ → refrain from use ([ref](https://now.org/blog/the-g-word-isnt-for-you-how-gypsy-erases-romani-women/))
-    - [ ] not ~~"Karma"~~ → **comeuppance** ([ref coming soon](TODO))
+    - [ ] not ~~"Karma"~~ → **comeuppance** 
 
 #### Disability Inclusion <a name="disability" id="jump-nav"></a>
 - [ ] Avoid inspiration porn ([ref](https://www.youtube.com/watch?v=SxrS7-I_sMQ))
-- [ ] When discussing a product, indicate what makes it accessible ([ref coming soon](TODO))
+- [ ] When discussing a product, indicate what makes it accessible 
 - [ ] Avoid ableist language ([ref](http://web.augsburg.edu/english/writinglab/Avoiding_Ableist_Language.pdf)), ([ref](https://www.unr.edu/nevada-today/blogs/2020/avoiding-ableist-terminology))
     - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
     - [ ] not ~~Crazy, nuts, spaz, insane~~ → **bizarre**, **enormous**, **unfamiliar** ([ref](https://www.selfdefined.app/definitions/crazy/))
     - [ ] not ~~Sanity Check~~ → **confidence check**, **temperature check** ([ref](https://www.selfdefined.app/definitions/sanity-check/))
-    - [ ] not ~~Moron, idiot~~ → TBD ([ref](https://www.selfdefined.app/definitions/idiot/))
+    - [ ] not ~~Moron, idiot~~ →   refrain from use ([ref](https://www.selfdefined.app/definitions/idiot/))
     - [ ] not ~~Dumb, stupid~~ → **unreasonable**, **odd** ([ref](https://www.selfdefined.app/definitions/stupid/))
     - [ ] not ~~Derpy~~ → **ridiculous**, **foolish**, **silly** ([ref](https://www.selfdefined.app/definitions/derpy/))
     - [ ] not ~~R_tard*, *tard~~ →  refrain from use ([ref](https://www.selfdefined.app/definitions/r-word/))
-    - [ ] not ~~Lame, crippled~~ → **disabled** ([ref](https://www.selfdefined.app/lame/))
+    - [ ] not ~~Lame, crippled~~ →  **disabled** ([ref](https://www.selfdefined.app/lame/))
     - [ ] not ~~Psychopath, lunatic, maniac~~ →  refrain from use ([ref](https://www.lpaonline.org/the-m-word))
     - [ ] not ~~Junkie~~ → **aficionado**, **fiend**, **enthusiast** ([ref](https://www.selfdefined.app/definitions/junkie/))
     - [ ] not ~~Midget~~ → **Use the person's name**, **short person** ([ref](https://www.lpaonline.org/the-m-word))
+    - [ ] not ~~Stand Up~~ → **regular**, **sync**,  if you meant "meeting", [look up some synonyms](https://www.thesaurus.com/browse/meeting)) ([ref](https://www.washingtonpost.com/posteverything/wp/2015/05/13/lame-stand-up-and-other-words-we-use-to-insult-the-disabled-without-even-knowing-it/))
 - [ ] Have you used medical diagnoses when not talking about actual medical things? (medical appropriation)
     - [ ] not ~~Obsessive Compulsive Disorder (OCD)~~ → **conscientious**, **meticulous**, **thorough** ([ref](https://www.selfdefined.app/definitions/obsessive-compulsive-disorder/))
     - [ ] not ~~Bipolar~~ →  **unpredictable**, **flippant** ([ref](https://ibpf.org/articles/please-stop-saying-bipolar-when-you-mean-unpredictable-or-broken/))
@@ -84,7 +84,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 
 #### Race Inclusion <a name="race" id="jump-nav"></a>
 - [ ] Ensure capitalization of "Black" ([ref](https://apnews.com/article/entertainment-cultures-race-and-ethnicity-us-news-ap-top-news-7e36c00c5af0436abc09e051261fff1f))
-- [ ] Avoid racial appropriation ([ref coming soon](TODO))
+- [ ] Avoid racial appropriation 
     - [ ] Refrain from digital Blackface ([ref](https://www.selfdefined.app/definitions/digital-blackface/))
 - [ ] Avoid racially offensive terms and phrases
     - [ ] not ~~Grandfathering~~ → **legacy**, **historical** ([ref](https://www.selfdefined.app/definitions/grandfathering/))
@@ -97,37 +97,37 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Ensure you have used Latina and Hispanic correctly ([ref](https://www.yesprep.org/news/blog/featured/~board/blog/post/hispanic-vs-latinos-vs-latinx-explained))
 
 #### Age inclusion <a name="age" id="jump-nav"></a>
-- [ ] Ensure explanations will make sense to the age of your audience ([ref coming soon](TODO))
-- [ ] Avoid assuming in-depth computer knowledge ([ref coming soon](TODO))
-- [ ] Avoid ageist language ([ref coming soon](TODO))
-    - [ ] not ~~So easy Grandma could do it~~ → refrain from use ([ref coming soon](TODO))
-    - [ ] not ~~Entitled [insert generation]~~ → refrain from use ([ref coming soon](TODO))
+- [ ] Ensure explanations will make sense to the age of your audience 
+- [ ] Avoid assuming in-depth computer knowledge 
+- [ ] Avoid ageist language 
+    - [ ] not ~~So easy Grandma could do it~~ → refrain from use 
+    - [ ] not ~~Entitled [insert generation]~~ → refrain from use 
 
 
 
 ### Make People Feel Welcome <a name="welcome" id="jump-nav"></a>
-- [ ] Warn before discussion/images of triggering/traumatic topics ([ref coming soon](TODO))
-- [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc). Instead, qualify the difficulty: "This may be easy if you already know [this thing]." ([ref coming soon](TODO))
-- [ ] State required knowledge up front. (eg "We're assuming your familiar with concepts a, b, and c") ([ref coming soon](TODO))
+- [ ] Warn before discussion/images of triggering/traumatic topics 
+- [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc). Instead, qualify the difficulty: "This may be easy if you already know [this thing]." 
+- [ ] State required knowledge up front. (eg "We're assuming your familiar with concepts a, b, and c") 
     - [ ] If concept knowledge is assumed, offer a place to learn those concepts
     - [ ] Did you include anything beyond basic math (+ - * / )? If so, mention that there is a specific math prerequisite
 - [ ] Explain things in ways it will be realatable to as many people as possible
-- [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc ([ref coming soon](TODO))
+- [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc 
     - [ ] Where single letter variable names are common practice (eg `i`, `k`, `v` etc), explain what they stand for
-- [ ] Did you say something is simplified? Demonstrate what was simplified ([ref coming soon](TODO))
+- [ ] Did you say something is simplified? Demonstrate what was simplified 
 - [ ] <!--Don't talk down to non-engineering teammates and end users!-->
 - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
 
 
 #### For In person Events <a name="events" id="jump-nav"></a>
-- [ ] Discuss Code of Conduct (CoC) on event pages and in opening announcements ([ref coming soon](TODO))
-    - [ ] Include event organizer or CoC team contact info if harassment takes place ([ref coming soon](TODO))
-- [ ] Have "no photos" stickers available at badge pickup ([ref coming soon](TODO))
-- [ ] Have pronoun stickers available at badge pickup ([ref coming soon](TODO))
-- [ ] Avoid sexually explicit branding and humor ([ref coming soon](TODO))
-- [ ] Designated sensory-friendly quiet space ([ref coming soon](TODO))
-- [ ] alcohol should never be the main part of the social hour ([ref coming soon](TODO))
-- [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave ([ref coming soon](TODO))
+- [ ] Discuss Code of Conduct (CoC) on event pages and in opening announcements 
+    - [ ] Include event organizer or CoC team contact info if harassment takes place 
+- [ ] Have "no photos" stickers available at badge pickup 
+- [ ] Have pronoun stickers available at badge pickup 
+- [ ] Avoid sexually explicit branding and humor 
+- [ ] Designated sensory-friendly quiet space 
+- [ ] alcohol should never be the main part of the social hour 
+- [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave 
 
 
 ### Accessibility (a11y) is a right <a name="a11y" id="jump-nav"></a>
@@ -136,9 +136,9 @@ Many of these items will be guided by: [Web Accessibility Laws & Policies](https
 
 #### Saftey <a name="safety" id="jump-nav"></a>
 - [ ] warn for rapidly-flashing lights ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
-- [ ] warn for loud noises ([ref coming soon](TODO))
-- [ ] warn for anything that could make someone dizzy ([ref coming soon](TODO))
-- [ ] include timestamps for where to skip to to avoid warned content ([ref coming soon](TODO))
+- [ ] warn for loud noises 
+- [ ] warn for anything that could make someone dizzy 
+- [ ] include timestamps for where to skip to to avoid warned content 
 
 #### Percievable <a name="percievable" id="jump-nav"></a>
 People should be able see and read even with impaired vision
@@ -146,17 +146,17 @@ People should be able see and read even with impaired vision
 - [ ] Tested with Screen Reader ([test here](https://webaim.org/simulations/screenreader)) ([ref](https://www.tpgi.com/screen-readers-accessibility-testing/#:~:text=If%20you%20test%20for%20accessibility,a%20poor%20user%20experience%20exists.))
 - [ ] AA or AAA level color contrast ratios ([test here](http://colorsafe.co/))
 - [ ] Avoid "fancy lettering" and odd capitalisation ([ref](https://www.selfdefined.app/definitions/spongebob-case/))
-- [ ] Include transcripts for audio content ([ref coming soon](TODO))
-- [ ] Include subtitles for video content ([ref coming soon](TODO))
+- [ ] Include transcripts for audio content 
+- [ ] Include subtitles for video content 
 - [ ] Don't rely on bold/italics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
 - [ ] Use `rem` and `em` instead of px ([ref](https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0))
 
 #### Operable <a name="operable" id="jump-nav"></a>
-- [ ] Keyboard navigation works ([ref coming soon](TODO))
-- [ ] Responsive ([ref coming soon](TODO))
-- [ ] Works on different devices and browsers ([ref coming soon](TODO))
-- [ ] Works with Assistive Technology ([ref coming soon](TODO))
+- [ ] Keyboard navigation works 
+- [ ] Responsive 
+- [ ] Works on different devices and browsers 
+- [ ] Works with Assistive Technology 
 
 #### Organized <a name="oragnaized" id="jump-nav"></a>
 Arranged in a way that makes sense and use language that most people understand
-- [ ] Headings used appropriately ([ref coming soon](TODO))
+- [ ] Headings used appropriately 

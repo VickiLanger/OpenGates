@@ -1,10 +1,10 @@
 ---
 layout: page
-title: OpenGates Checklist
-permalink: /checklist/fr
+title: OpenGates Checklist - Français
+permalink: /checklist-fr
 ---
 
-Une liste de contrôle de référence pour vous aider à éviter les barrières à l'entrée dans vos publications, articles, vidéos, discussions, présentations, podcasts, sites et dans tout autre contenu de développement. 
+La liste de contrôle n'est **pas** par ordre d'importance. Une liste de contrôle de référence pour vous aider à éviter les barrières à l'entrée dans vos publications, articles, vidéos, discussions, présentations, podcasts, sites et dans tout autre contenu de développement. 
 
 ## Liste de contrôle anti-gardien
 

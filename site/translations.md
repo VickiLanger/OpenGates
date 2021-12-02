@@ -8,8 +8,8 @@ We're always looking for translations of OpenGates Checklist and are immensely t
 
 You may view the most recent translated versions below:
 
-[English](https://opengates.dev/checklist/)  → 1.0 
+[English](https://OpenGates.dev/checklist/)  → 1.0 
 
-[French](TODO)  → 1.0 
+[French](https://OpenGates.dev/checklist-fr/)  → 1.0 
 
 If you would like to translate, instructions can be found [here](https://github.com/VickiLanger/OpenGates/issues/16).
