@@ -46,11 +46,11 @@ La liste de contrôle est divisée en sections pour vous aider à comprendre com
     - [ ] pas ~~"Heure indienne", "Été indien"~~ → s'abstenir de l'utiliser ([ref](https://www.ictinc.ca/blog/culturally-offensive-phrases-you-should-use-at))
     - [ ] pas ~~"Gitan / Juif"~~ → **arnaqué**, **agrippé** ([ref](http://meloukhia.net/2011/02/language_matters_no_gypped_is_pas_a_good_alternative_to_jewed/))
     - [ ] pas ~~"Gitan"~~ → s'abstenir de l'utiliser ([ref](https://now.org/blog/the-g-word-isnt-for-you-how-gypsy-erases-romani-women/))
-    - [ ] pas ~~"Karma"~~ → **châtiment** ([ref bientôt disponible](A FAIRE))
+    - [ ] pas ~~"Karma"~~ → **châtiment**
 
 #### Inclusion du Handicap
 - [ ] Éviter l'inspiration porno ([ref](https://www.youtube.com/watch?v=SxrS7-I_sMQ))
-- [ ] Lorsque vous discutez d'un produit, indiquez ce qui le rend accessible ([ref bientôt disponible](A FAIRE))
+- [ ] Lorsque vous discutez d'un produit, indiquez ce qui le rend accessible
 - [ ] Éviter le langage capacitiste/le validisme  ([ref](http://web.augsburg.edu/english/writinglab/Avoiding_Ableist_Language.pdf)), ([ref](https://www.unr.edu/nevada-today/blogs/2020/avoiding-ableist-terminology))
     - [ ] pas ~~normal~~ → **commun**, **typique**, **fréquent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
     - [ ] pas ~~Fou, dingo, insensé~~ → **bizarre**, **enorme**, **inconnu** ([ref](https://www.selfdefined.app/definitions/crazy/))
@@ -70,7 +70,7 @@ La liste de contrôle est divisée en sections pour vous aider à comprendre com
 
 #### Inclusion de la Race
 - [ ] Assurer la majuscule de "Noir" ([ref](https://apnews.com/article/entertainment-cultures-race-and-ethnicity-us-news-ap-top-news-7e36c00c5af0436abc09e051261fff1f))
-- [ ] Éviter l'appropriation raciale ([ref bientôt disponible](A FAIRE))
+- [ ] Éviter l'appropriation raciale
     - [ ] S'abstenir du visage noir numérique ([ref](https://www.selfdefined.app/definitions/digital-blackface/))
 - [ ] Évitez les termes et expressions racistes
     - [ ] pas ~~Grand-père~~ → **héritage**, **historique** ([ref](https://www.selfdefined.app/definitions/grandfathering/))
@@ -83,37 +83,37 @@ La liste de contrôle est divisée en sections pour vous aider à comprendre com
 - [ ] Assurez-vous d'avoir utilisé correctement Latinos et Hispaniques ([ref](https://www.yesprep.org/news/blog/featured/~board/blog/post/hispanic-vs-latinos-vs-latinx-explained))
 
 #### Inclusion de l'Âge
-- [ ] Assurez-vous que les explications auront un sens pour l'âge de votre public ([ref bientôt disponible](A FAIRE))
-- [ ] Évitez de supposer des connaissances digitales approfondies ([ref bientôt disponible](A FAIRE))
-- [ ] Éviter le langage âgiste ([ref bientôt disponible](A FAIRE))
-    - [ ] pas ~~Si facile, ma grand-mère pourrait le faire~~ → s'abstenir de l'utiliser ([ref bientôt disponible](A FAIRE))
-    - [ ] pas ~~Intitulé [insérer la génération]~~ → s'abstenir de l'utiliser ([ref bientôt disponible](A FAIRE))
+- [ ] Assurez-vous que les explications auront un sens pour l'âge de votre public
+- [ ] Évitez de supposer des connaissances digitales approfondies
+- [ ] Éviter le langage âgiste
+    - [ ] pas ~~Si facile, ma grand-mère pourrait le faire~~ → s'abstenir de l'utiliser
+    - [ ] pas ~~Intitulé [insérer la génération]~~ → s'abstenir de l'utiliser
 
 
 
 ### Faites en sorte que les gens se sentent les bienvenus
-- [ ] Avertir avant discussion/images de sujets déclencheurs/traumatiques ([ref bientôt disponible](A FAIRE))
-- [ ] Évitez d'utiliser des mots qui laissent entendre que des choses faciles (par exemple, simple, juste, direct, etc.). Au lieu de cela, qualifiez la difficulté : « Cela peut être facile si vous connaissez déjà [cette chose] ». ([ref bientôt disponible](A FAIRE))
-- [ ] Énoncez les connaissances requises à l'avance. (par exemple "Nous supposons que vous êtes familier avec les concepts a, b et c") ([ref bientôt disponible](A FAIRE))
+- [ ] Avertir avant discussion/images de sujets déclencheurs/traumatiques
+- [ ] Évitez d'utiliser des mots qui laissent entendre que des choses faciles (par exemple, simple, juste, direct, etc.). Au lieu de cela, qualifiez la difficulté : « Cela peut être facile si vous connaissez déjà [cette chose] ».
+- [ ] Énoncez les connaissances requises à l'avance. (par exemple "Nous supposons que vous êtes familier avec les concepts a, b et c")
     - [ ] Si la connaissance des concepts est supposée, offrez un endroit pour apprendre ces concepts
     - [ ] Avez-vous inclus autre chose que les mathématiques de base (+ - * / ) ? Si oui, mentionnez qu'il y a un prérequis mathématique spécifique
 - [ ] Expliquez les choses de manière à ce qu'elles soient accessibles au plus grand nombre de personnes possible
-- [ ] Donnez des noms descriptifs aux choses. Avoid `x`, `foo`, `bar`, `baz` etc ([ref bientôt disponible](A FAIRE))
+- [ ] Donnez des noms descriptifs aux choses. Avoid `x`, `foo`, `bar`, `baz` etc
     - [ ] Lorsque les noms de variables à une seule lettre sont une pratique courante (par exemple `i`, `k`, `v` etc), expliquez ce qu'ils signifient
-- [ ] Avez-vous dit que quelque chose est simplifié ? Démontrer ce qui a été simplifié ([ref bientôt disponible](A FAIRE))
+- [ ] Avez-vous dit que quelque chose est simplifié ? Démontrer ce qui a été simplifié
 - [ ] <!--Ne vous moquez pas des coéquipiers non ingénieurs et des utilisateurs finaux !-->
 - [ ] pas ~~normal~~ → **commun**, **typique**, **fréquent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
 
 
 #### Pour les événements en personne
 - [ ] Discuter du code de conduite (CoC) sur les pages de l'événement et dans les annonces d'ouverture([ref bientôt disponible](A FAIRE))
-    - [ ] Inclure les coordonnées de l'organisateur de l'événement ou de l'équipe CoC en cas de harcèlement ([ref bientôt disponible](A FAIRE))
-- [ ] Ayez des autocollants « pas de photos » disponibles lors du retrait des badges ([ref bientôt disponible](A FAIRE))
-- [ ] Ayez des autocollants de pronom disponibles lors du retrait des badges ([ref bientôt disponible](A FAIRE))
-- [ ] Évitez les marques et l'humour sexuellement explicites ([ref bientôt disponible](A FAIRE))
-- [ ] Espace calme et sensoriel désigné ([ref bientôt disponible](A FAIRE))
-- [ ] L'alcool ne devrait jamais être la partie principale de l'heure sociale ([ref bientôt disponible](A FAIRE))
-- [ ] Avertir avant la discussion/les images des sujets déclencheurs/traumatisants ET permettre aux gens de partir ([ref bientôt disponible](A FAIRE))
+    - [ ] Inclure les coordonnées de l'organisateur de l'événement ou de l'équipe CoC en cas de harcèlement
+- [ ] Ayez des autocollants « pas de photos » disponibles lors du retrait des badges
+- [ ] Ayez des autocollants de pronom disponibles lors du retrait des badges
+- [ ] Évitez les marques et l'humour sexuellement explicites
+- [ ] Espace calme et sensoriel désigné
+- [ ] L'alcool ne devrait jamais être la partie principale de l'heure sociale
+- [ ] Avertir avant la discussion/les images des sujets déclencheurs/traumatisants ET permettre aux gens de partir
 
 
 ### L'accessibilité (alliance) est un droit
@@ -122,9 +122,9 @@ Beaucoup de ces éléments seront guidés par : [Lois et politiques d'accessibi
 
 #### Sécurité
 - [ ] avertir des lumières clignotantes rapidement ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
-- [ ] avertir des bruits forts ([ref bientôt disponible](A FAIRE))
-- [ ] avertir de tout ce qui pourrait donner le vertige à quelqu'un ([ref bientôt disponible](A FAIRE))
-- [ ] inclure des horodatages pour savoir où passer pour éviter le contenu averti ([ref bientôt disponible](A FAIRE))
+- [ ] avertir des bruits forts
+- [ ] avertir de tout ce qui pourrait donner le vertige à quelqu'un
+- [ ] inclure des horodatages pour savoir où passer pour éviter le contenu averti
 
 #### Perceptible
 Les gens devraient être capables de voir et de lire même avec une vision altérée
@@ -132,17 +132,17 @@ Les gens devraient être capables de voir et de lire même avec une vision alté
 - [ ] Testé avec un lecteur d'écran ([tester ici](https://webaim.org/simulations/screenreader)) ([ref](https://www.tpgi.com/screen-readers-accessibility-testing/#:~:text=If%20you%20test%20for%20accessibility,a%20poor%20user%20experience%20exists.))
 - [ ] Rapports de contraste des couleurs de niveau AA ou AAA ([tester ici](http://colorsafe.co/))
 - [ ] Évitez les « lettrages fantaisie » et les majuscules étranges ([ref](https://www.selfdefined.app/definitions/spongebob-case/))
-- [ ] Inclure des transcriptions pour le contenu audio ([ref bientôt disponible](A FAIRE))
-- [ ] Inclure des sous-titres pour le contenu vidéo ([ref bientôt disponible](A FAIRE))
+- [ ] Inclure des transcriptions pour le contenu audio
+- [ ] Inclure des sous-titres pour le contenu vidéo
 - [ ] Ne comptez pas sur les caractères gras/italiques/barrés pour transmettre un sens ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
 - [ ] Utilisez `rem` et `em` au lieu de px ([ref](https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0))
 
 #### Opérable
-- [ ] La navigation au clavier fonctionne ([ref bientôt disponible](A FAIRE))
-- [ ] Responsive ([ref bientôt disponible](A FAIRE))
-- [ ] Fonctionne sur différents appareils et navigateurs ([ref bientôt disponible](A FAIRE))
-- [ ] Fonctionne avec la technologie d'assistance ([ref bientôt disponible](A FAIRE))
+- [ ] La navigation au clavier fonctionne
+- [ ] Responsive
+- [ ] Fonctionne sur différents appareils et navigateurs
+- [ ] Fonctionne avec la technologie d'assistance
 
 #### Organisé
 Disposé d'une manière qui a du sens et utilise un langage que la plupart des gens comprennent
-- [ ] En-têtes utilisés de manière appropriée ([ref bientôt disponible](A FAIRE))
+- [ ] En-têtes utilisés de manière appropriée
