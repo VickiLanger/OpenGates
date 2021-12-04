@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenGates Checklist
-permalink: /future-version/
+permalink: /checklist/
 ---
 
 
@@ -48,7 +48,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Avoid cultural appropriation ([ref](https://au.reachout.com/articles/why-cultural-appropriation-isnt-cool))
     - [ ] not ~~Guru~~ → **expert**, **teacher** ([ref](https://www.dictionary.com/e/stop-using-in-2020?utm_medium=referral&utm_source=idealist))
     - [ ] not ~~Spirit animal~~ → **personal mascot** ([ref](https://www.selfdefined.app/definitions/pow-wow/))
-    - [ ] not ~~Pow-wow~~ → if you meant "meeting", [look up some synonyms](https://www.thesaurus.com/browse/meeting)) ([ref](https://www.selfdefined.app/definitions/pow-wow/))
+    - [ ] not ~~Pow-wow~~ → if you meant "meeting", [look up some synonyms](https://www.thesaurus.com/browse/meeting)). ([ref](https://www.selfdefined.app/definitions/pow-wow/))
     - [ ] not ~~Tribe~~ → refrain from use, or replace it with a term without appropriation like "close group of friends" ([ref](https://www.selfdefined.app/definitions/tribe/))
     - [ ] not ~~Totemic animal~~ → refrain from use ([ref](https://www.selfdefined.app/definitions/totemic-animal/))
 - [ ] Avoid culturally offensives terms and phrases
@@ -76,7 +76,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~Psychopath, lunatic, maniac~~ →  refrain from use ([ref](https://www.lpaonline.org/the-m-word))
     - [ ] not ~~Junkie~~ → **aficionado**, **fiend**, **enthusiast** ([ref](https://www.selfdefined.app/definitions/junkie/))
     - [ ] not ~~Midget~~ → **Use the person's name**, **short person** ([ref](https://www.lpaonline.org/the-m-word))
-    - [ ] not ~~Stand Up~~ → **regular**, **sync**,  if you meant "meeting", [look up some synonyms](https://www.thesaurus.com/browse/meeting)) ([ref](https://www.washingtonpost.com/posteverything/wp/2015/05/13/lame-stand-up-and-other-words-we-use-to-insult-the-disabled-without-even-knowing-it/))
+    - [ ] not ~~Stand Up~~ → **regular**, **sync**, **meeting** ([ref](https://www.washingtonpost.com/posteverything/wp/2015/05/13/lame-stand-up-and-other-words-we-use-to-insult-the-disabled-without-even-knowing-it/))
 - [ ] Have you used medical diagnoses when not talking about actual medical things? (medical appropriation)
     - [ ] not ~~Obsessive Compulsive Disorder (OCD)~~ → **conscientious**, **meticulous**, **thorough** ([ref](https://www.selfdefined.app/definitions/obsessive-compulsive-disorder/))
     - [ ] not ~~Bipolar~~ →  **unpredictable**, **flippant** ([ref](https://ibpf.org/articles/please-stop-saying-bipolar-when-you-mean-unpredictable-or-broken/))
@@ -97,23 +97,24 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Ensure you have used Latina and Hispanic correctly ([ref](https://www.yesprep.org/news/blog/featured/~board/blog/post/hispanic-vs-latinos-vs-latinx-explained))
 
 #### Age inclusion <a name="age" id="jump-nav"></a>
-- [ ] Ensure explanations will make sense to the age of your audience 
+- [ ] Ensure explanations will make sense to the age of your audience ([ref](https://www.comm.pitt.edu/oral-comm-lab/audience-analysis))
 - [ ] Avoid assuming in-depth computer knowledge 
-- [ ] Avoid ageist language 
+- [ ] Avoid ageist language ([ref](https://www.apa.org/monitor/2009/06/workplaces))
     - [ ] not ~~So easy Grandma could do it~~ → refrain from use 
     - [ ] not ~~Entitled [insert generation]~~ → refrain from use 
 
 
 
 ### Make People Feel Welcome <a name="welcome" id="jump-nav"></a>
-- [ ] Warn before discussion/images of triggering/traumatic topics 
-- [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc). Instead, qualify the difficulty: "This may be easy if you already know [this thing]." 
+- [ ] Warn before discussion/images of triggering/traumatic topics ([ref](https://sites.lsa.umich.edu/inclusive-teaching-sandbox/wp-content/uploads/sites/853/2021/02/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-Draft.pdf))
+- [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc) ([ref](https://www.thefrugalgirl.com/stop-saying-things-are-easy-when-theyre-not/))
+- [ ] Qualify the difficulty: "This may be easy if you already know [this thing]." ([ref](https://www.thefrugalgirl.com/stop-saying-things-are-easy-when-theyre-not/))
 - [ ] State required knowledge up front. (eg "We're assuming your familiar with concepts a, b, and c") 
     - [ ] If concept knowledge is assumed, offer a place to learn those concepts
     - [ ] Did you include anything beyond basic math (+ - * / )? If so, mention that there is a specific math prerequisite
-- [ ] Explain things in ways it will be realatable to as many people as possible
-- [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc 
-    - [ ] Where single letter variable names are common practice (eg `i`, `k`, `v` etc), explain what they stand for
+- [ ] Explain things in ways it will be relatable to as many people as possible ([ref](https://www.catalyst.net.nz/blog/how-explain-things-better-using-analogies))
+- [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc ([ref](https://builtin.com/data-science/variable-names))
+    - [ ] Where single letter variable names are common practice (eg `i`, `k`, `v` etc), explain what they stand for ([ref](https://builtin.com/data-science/variable-names))
 - [ ] Did you say something is simplified? Demonstrate what was simplified 
 - [ ] <!--Don't talk down to non-engineering teammates and end users!-->
 - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
@@ -127,7 +128,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Avoid sexually explicit branding and humor 
 - [ ] Designated sensory-friendly quiet space 
 - [ ] alcohol should never be the main part of the social hour 
-- [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave 
+- [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave ([ref](https://sites.lsa.umich.edu/inclusive-teaching-sandbox/wp-content/uploads/sites/853/2021/02/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-Draft.pdf))
 
 
 ### Accessibility (a11y) is a right <a name="a11y" id="jump-nav"></a>
@@ -146,17 +147,17 @@ People should be able see and read even with impaired vision
 - [ ] Tested with Screen Reader ([test here](https://webaim.org/simulations/screenreader)) ([ref](https://www.tpgi.com/screen-readers-accessibility-testing/#:~:text=If%20you%20test%20for%20accessibility,a%20poor%20user%20experience%20exists.))
 - [ ] AA or AAA level color contrast ratios ([test here](http://colorsafe.co/))
 - [ ] Avoid "fancy lettering" and odd capitalisation ([ref](https://www.selfdefined.app/definitions/spongebob-case/))
-- [ ] Include transcripts for audio content 
-- [ ] Include subtitles for video content 
+- [ ] Include transcripts for audio content ([ref](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles))
+- [ ] Include subtitles for video content ([ref](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles))
 - [ ] Don't rely on bold/italics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
 - [ ] Use `rem` and `em` instead of px ([ref](https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0))
 
 #### Operable <a name="operable" id="jump-nav"></a>
-- [ ] Keyboard navigation works 
-- [ ] Responsive 
-- [ ] Works on different devices and browsers 
-- [ ] Works with Assistive Technology 
+- [ ] Keyboard navigation works ([ref](https://webaim.org/techniques/keyboard/))
+- [ ] Responsive ([ref](https://www.boia.org/blog/responsive-design-and-accessibility))
+- [ ] Works on different devices and browsers ([ref](https://www.w3.org/WAI/people-use-web/abilities-barriers/))
+- [ ] Works with Assistive Technology ([ref](https://www.w3.org/WAI/people-use-web/tools-techniques/))
 
 #### Organized <a name="oragnaized" id="jump-nav"></a>
 Arranged in a way that makes sense and use language that most people understand
-- [ ] Headings used appropriately 
+- [ ] Headings used appropriately ([ref](https://developer.mozilla.org/en-US/docs/Glossary/Semantics))
