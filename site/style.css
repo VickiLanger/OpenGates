@@ -73,17 +73,17 @@ a {
     margin-left: .1rem;
 }
 
-#light-link {
+.light-link {
     color: var(--light-color) !important;
 }
 
-a:hover, #light-link:hover {
+a:hover, .light-link:hover {
     color: transparent !important;
     transition: 250ms ease;
     font-size: 1.2rem;
 }
 
-a:active, #light-link:active {
+a:active, .light-link:active {
     color: rgba(0,0,0,.5) !important;
 }
 
