@@ -17,7 +17,7 @@ Reference checklist of things to avoid gatekeeping in posts, articles, videos, t
 
 It is *your job* to make sure that **every** piece of content you put out is inclusive, accessible, and welcoming to all. This checklist is here to make your life easier. No longer will you need to remeber every single thing you need to do in order to stop accidental gatekeeping in your content.
 
-## Add Your Community as an Adopter
+## Add You or Your Community as an Adopter
 1. Fork the repository.
 2. Add a new row to [adopters section on homepage](https://github.com/VickiLanger/OpenGates/blob/main/site/home.md#adopters-of-opengates), with your community, project's name, or company linked to your site in the first column. Then, after the arrow add what you're using OpenGates for in the second column. Example below
 3. Open a pull request.
