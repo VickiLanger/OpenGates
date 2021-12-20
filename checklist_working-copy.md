@@ -4,8 +4,13 @@ title: OpenGates Checklist
 permalink: /checklist-working-version/
 ---
 
+---
 
-A reference checklist of things to help you avoid gatekeeping in your dev posts, articles, videos, talks, presentations, podcasts, sites, and in any other content.
+**DISCLAIMER: this page is the WORK IN PROGESS checklist. It is NOT a released version. However, it will always have more than the released OpenGates list**
+
+---
+
+A work in progress reference checklist of things to help you avoid gatekeeping in your dev posts, articles, videos, talks, presentations, podcasts, sites, and in any other content.
 
 ## Anti-gatekeeping Checklist
 
