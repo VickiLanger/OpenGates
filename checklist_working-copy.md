@@ -30,7 +30,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 ### Inclusion <a name="inclusion" id="jump-nav"></a>
  - [ ] Images should vary in age, ability, race, nationality, gender, body types ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Example names should be different from the status quo ([ref](https://www.christytuckerlearning.com/diverse-characters-in-learning-scenarios/))
- - [ ] Lists of people should not be homogenous ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
+ - [ ] Lists of people should not be homogenous; should be as diverse as the group they represent.  ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Can everyone who might view this to see someone like themselves represented in it? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Are any stereotypes being perpetuated? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
  - [ ] Who is missing or excluded? ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
@@ -121,6 +121,13 @@ The checklist is **not** in order of importance. It is broken down into sections
 
 
 #### For In person Events <a name="events" id="jump-nav"></a>
+
+##### Speaking at or Sponsoring
+- [ ] Refuse to speak if there isn’t a diverse lineup of speakers ([ref](https://hbr.org/2019/09/what-it-will-take-to-improve-diversity-at-conferences))
+- [ ] Refuse to speak at or attend an event with a homogenous lineup. ([ref](https://hbr.org/2019/09/what-it-will-take-to-improve-diversity-at-conferences))
+- [ ] If you choose not to speak, recommend a systemically underrepresented individual ([ref](https://hbr.org/2019/09/what-it-will-take-to-improve-diversity-at-conferences))
+
+##### Organizing
 - [ ] Discuss Code of Conduct (CoC) on event pages and in opening announcements 
     - [ ] Include event organizer or CoC team contact info if harassment takes place 
 - [ ] Have "no photos" stickers available at badge pickup 
@@ -129,6 +136,15 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Designated sensory-friendly quiet space 
 - [ ] alcohol should never be the main part of the social hour 
 - [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave ([ref](https://sites.lsa.umich.edu/inclusive-teaching-sandbox/wp-content/uploads/sites/853/2021/02/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-Draft.pdf))
+- [ ] Ensure panels of people are equally or more diverse than the group they represent.
+- [ ] Enlist people of color to speak about topics other than diversity issues. ([ref](https://hbr.org/2019/09/what-it-will-take-to-improve-diversity-at-conferences))
+- [ ] Look for speakers far beyond your personal network ([ref](https://www.mtu.edu/diversity/council/pdfs/tips-for-diverse-panels-and-speakers.pdf))
+- [ ] Invite systemically underrepresented individuals FIRST and avoid tokenism. ([ref](https://www.mtu.edu/diversity/council/pdfs/tips-for-diverse-panels-and-speakers.pdf))
+- [ ] Prestigious titles should **not** be a factor in choosing a speaker ([ref](https://hbr.org/2019/09/what-it-will-take-to-improve-diversity-at-conferences))
+- [ ] Have your speakers use microphones even if you think the room is small enough
+- [ ] Provide sign language interpreters ([ref](https://www.deafnessforum.org.au/wp-content/uploads/documents/publications/communication_accessibility_guidelines_for_meetings_and_public_events.pdf))
+- [ ] Provide Captioning ([ref](https://www.deafnessforum.org.au/wp-content/uploads/documents/publications/communication_accessibility_guidelines_for_meetings_and_public_events.pdf))
+- [ ] Ensure the location is Induction Loop (or Hearing Loop) equipped and use it ([ref](https://www.deafnessforum.org.au/wp-content/uploads/documents/publications/communication_accessibility_guidelines_for_meetings_and_public_events.pdf))
 
 
 ### Accessibility (a11y) is a right <a name="a11y" id="jump-nav"></a>
