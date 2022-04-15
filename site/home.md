@@ -25,7 +25,8 @@ Access the latest version of OpenGates Checklist here:
 OpenGates Checklist has been adopted by developer content creators since 2021. Here are some of our adopters:
 
 
- - [Vicki Langer](https://twitter.com/Vicki_Langer) → Writing dev.to content & a beginners python book
+ - [Vicki Langer](https://twitter.com/Vicki_Langer) → writing technical content with relatable examples & a beginners python book
+ - [Draft.dev](https://draft.dev/) → Creating technical content that resonates with software developers
  - [You???](https://github.com/VickiLanger/OpenGates#registering-your-community-as-an-adopter) → something awesome?
 
 Want to be added here? [Here's how.](https://github.com/VickiLanger/OpenGates#registering-your-community-as-an-adopter)
