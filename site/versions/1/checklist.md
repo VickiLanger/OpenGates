@@ -15,7 +15,7 @@ The checklist is **not** in order of importance. It is broken down into sections
  - [Inclusion](#inclusion)
     - [Gender](#gender)
     - [Culture](#culture)
-    - [Disabilty](#disability)
+    - [Disability](#disability)
     - [Race](#race)
     - [Ethnicity](#ethnicity)
     - [Age](#age)
@@ -23,7 +23,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [In-Person Events](#events)
  - [Accessibility](#a11y)
     - [Safety](#safety)
-    - [Percievable](#percievable)
+    - [Perceivable](#perceivable)
     - [Operable](#operable)
     - [Organized](#organized)
 
@@ -107,14 +107,14 @@ The checklist is **not** in order of importance. It is broken down into sections
 
 ### Make People Feel Welcome <a name="welcome" id="jump-nav"></a>
 - [ ] Warn before discussion/images of triggering/traumatic topics ([ref](https://sites.lsa.umich.edu/inclusive-teaching-sandbox/wp-content/uploads/sites/853/2021/02/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-Draft.pdf))
-- [ ] Avoid using words that make things sound easy (eg simple, just, straightforward, etc) ([ref](https://www.thefrugalgirl.com/stop-saying-things-are-easy-when-theyre-not/))
+- [ ] Avoid using words that make things sound easy (e.g. simple, just, straightforward, etc) ([ref](https://www.thefrugalgirl.com/stop-saying-things-are-easy-when-theyre-not/))
 - [ ] Qualify the difficulty: "This may be easy if you already know [this thing]." ([ref](https://www.thefrugalgirl.com/stop-saying-things-are-easy-when-theyre-not/))
-- [ ] State required knowledge up front. (eg "We're assuming your familiar with concepts a, b, and c") 
+- [ ] State required knowledge up front. (e.g. "We're assuming your familiar with concepts a, b, and c") 
     - [ ] If concept knowledge is assumed, offer a place to learn those concepts
     - [ ] Did you include anything beyond basic math (+ - * / )? If so, mention that there is a specific math prerequisite
 - [ ] Explain things in ways it will be relatable to as many people as possible ([ref](https://www.catalyst.net.nz/blog/how-explain-things-better-using-analogies))
 - [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc ([ref](https://builtin.com/data-science/variable-names))
-    - [ ] Where single letter variable names are common practice (eg `i`, `k`, `v` etc), explain what they stand for ([ref](https://builtin.com/data-science/variable-names))
+    - [ ] Where single letter variable names are common practice (e.g. `i`, `k`, `v`, etc), explain what they stand for ([ref](https://builtin.com/data-science/variable-names))
 - [ ] Did you say something is simplified? Demonstrate what was simplified 
 - [ ] <!--Don't talk down to non-engineering teammates and end users!-->
 - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
@@ -135,13 +135,13 @@ The checklist is **not** in order of importance. It is broken down into sections
 Accessibility is a right. Yes, literally it is the law in some countries.
 Many of these items will be guided by: [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/?q=accessibility-law)
 
-#### Saftey <a name="safety" id="jump-nav"></a>
+#### Safety <a name="safety" id="jump-nav"></a>
 - [ ] warn for rapidly-flashing lights ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
 - [ ] warn for loud noises 
 - [ ] warn for anything that could make someone dizzy 
 - [ ] include timestamps for where to skip to to avoid warned content 
 
-#### Percievable <a name="percievable" id="jump-nav"></a>
+#### Perceivable <a name="perceivable" id="jump-nav"></a>
 People should be able see and read even with impaired vision
 - [ ] Images have Alternative Text ([ref](https://moz.com/learn/seo/alt-text))
 - [ ] Tested with Screen Reader ([test here](https://webaim.org/simulations/screenreader)) ([ref](https://www.tpgi.com/screen-readers-accessibility-testing/#:~:text=If%20you%20test%20for%20accessibility,a%20poor%20user%20experience%20exists.))
@@ -158,6 +158,6 @@ People should be able see and read even with impaired vision
 - [ ] Works on different devices and browsers ([ref](https://www.w3.org/WAI/people-use-web/abilities-barriers/))
 - [ ] Works with Assistive Technology ([ref](https://www.w3.org/WAI/people-use-web/tools-techniques/))
 
-#### Organized <a name="oragnaized" id="jump-nav"></a>
+#### Organized <a name="organized" id="jump-nav"></a>
 Arranged in a way that makes sense and use language that most people understand
 - [ ] Headings used appropriately ([ref](https://developer.mozilla.org/en-US/docs/Glossary/Semantics))
