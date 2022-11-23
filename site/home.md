@@ -18,6 +18,7 @@ Do know that depending on what you are building, some of the list items may not 
 Access the latest version of OpenGates Checklist here:
 - [English (HTML version)](https://vickilanger.github.io/OpenGates/checklist/)
 - [English (Markdown version)](https://raw.githubusercontent.com/VickiLanger/OpenGates/main/site/versions/1/checklist.md)
+- [Français (Markdown version)](https://raw.githubusercontent.com/VickiLanger/OpenGates/main/site/versions/1/checklist_fr.md)
 
 [//]: <> (### Support OpenGates)
 
