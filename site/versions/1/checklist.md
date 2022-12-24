@@ -9,7 +9,7 @@ A reference checklist of things to help you avoid gatekeeping in your dev posts,
 
 ## Anti-gatekeeping Checklist
 
-The checklist is **not** in order of importance. It is broken down into sections to help us understand how each item helps us open gates and avoid gatekeeping.
+The checklist is **not** in order of importance. It is broken down into sections to help us understand how each item helps us promote inclusion and avoid gatekeeping.
 
 **Jump To:**
  - [Inclusion](#inclusion)
@@ -26,6 +26,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [Perceivable](#perceivable)
     - [Operable](#operable)
     - [Organized](#organized)
+
 
 ### Inclusion <a name="inclusion" id="jump-nav"></a>
  - [ ] Images should vary in age, ability, race, nationality, gender, body types ([ref](https://www.forumone.com/ideas/how-to-choose-diverse-and-inclusive-photos/))
@@ -52,7 +53,6 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~Tribe~~ → refrain from use, or replace it with a term without appropriation like "close group of friends" ([ref](https://www.selfdefined.app/definitions/tribe/))
     - [ ] not ~~Totemic animal~~ → refrain from use ([ref](https://www.selfdefined.app/definitions/totemic-animal/))
 - [ ] Avoid culturally offensives terms and phrases
-    - [ ] not ~~"Indian giver"~~ → refrain from use ([ref](https://www.ictinc.ca/blog/culturally-offensive-phrases-you-should-use-at))
     - [ ] not ~~"Too many chiefs, and not enough Indians"~~ → refrain from use ([ref](https://www.ictinc.ca/blog/culturally-offensive-phrases-you-should-use-at))
     - [ ] not ~~"Circle the wagons", "Hold down the fort", "On the warpath"~~ → refrain from use ([ref](https://www.ictinc.ca/blog/culturally-offensive-phrases-you-should-use-at))
     - [ ] not ~~"Indian giver"~~ → refrain from use ([ref](https://www.ictinc.ca/blog/indian-giver-come-can-give-back))
@@ -62,7 +62,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~"Karma"~~ → **comeuppance** 
 
 #### Disability Inclusion <a name="disability" id="jump-nav"></a>
-- [ ] Avoid inspiration porn ([ref](https://www.youtube.com/watch?v=SxrS7-I_sMQ))
+- [ ] Avoid "inspiration porn" ([ref](https://www.youtube.com/watch?v=SxrS7-I_sMQ))
 - [ ] When discussing a product, indicate what makes it accessible 
 - [ ] Avoid ableist language ([ref](http://web.augsburg.edu/english/writinglab/Avoiding_Ableist_Language.pdf)), ([ref](https://www.unr.edu/nevada-today/blogs/2020/avoiding-ableist-terminology))
     - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
@@ -94,7 +94,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~Savage, barbaric~~ → **cruel**, **cold-blooded** ([ref](https://www.selfdefined.app/definitions/savage/)), ([ref](https://www.selfdefined.app/definitions/barbaric/))
 
 #### Ethnic Inclusion <a name="ethnicity" id="jump-nav"></a>
-- [ ] Ensure you have used Latina and Hispanic correctly ([ref](https://www.yesprep.org/news/blog/featured/~board/blog/post/hispanic-vs-latinos-vs-latinx-explained))
+- [ ] Ensure you have used Latina, Latino, Latinx and Hispanic correctly ([ref](https://www.yesprep.org/news/blog/featured/~board/blog/post/hispanic-vs-latinos-vs-latinx-explained))
 
 #### Age inclusion <a name="age" id="jump-nav"></a>
 - [ ] Ensure explanations will make sense to the age of your audience ([ref](https://www.comm.pitt.edu/oral-comm-lab/audience-analysis))
@@ -102,7 +102,6 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Avoid ageist language ([ref](https://www.apa.org/monitor/2009/06/workplaces))
     - [ ] not ~~So easy Grandma could do it~~ → refrain from use 
     - [ ] not ~~Entitled [insert generation]~~ → refrain from use 
-
 
 
 ### Make People Feel Welcome <a name="welcome" id="jump-nav"></a>
@@ -116,9 +115,6 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc ([ref](https://builtin.com/data-science/variable-names))
     - [ ] Where single letter variable names are common practice (e.g. `i`, `k`, `v`, etc), explain what they stand for ([ref](https://builtin.com/data-science/variable-names))
 - [ ] Did you say something is simplified? Demonstrate what was simplified 
-- [ ] <!--Don't talk down to non-engineering teammates and end users!-->
-- [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
-
 
 #### For In person Events <a name="events" id="jump-nav"></a>
 - [ ] Discuss Code of Conduct (CoC) on event pages and in opening announcements 
@@ -127,7 +123,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] Have pronoun stickers available at badge pickup 
 - [ ] Avoid sexually explicit branding and humor 
 - [ ] Designated sensory-friendly quiet space 
-- [ ] alcohol should never be the main part of the social hour 
+- [ ] Alcohol should never be the main part of the social hour 
 - [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave ([ref](https://sites.lsa.umich.edu/inclusive-teaching-sandbox/wp-content/uploads/sites/853/2021/02/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-Draft.pdf))
 
 
@@ -136,10 +132,10 @@ Accessibility is a right. Yes, literally it is the law in some countries.
 Many of these items will be guided by: [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/?q=accessibility-law)
 
 #### Safety <a name="safety" id="jump-nav"></a>
-- [ ] warn for rapidly-flashing lights ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
-- [ ] warn for loud noises 
-- [ ] warn for anything that could make someone dizzy 
-- [ ] include timestamps for where to skip to to avoid warned content 
+- [ ] Warn for rapidly-flashing lights ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
+- [ ] Warn for loud noises 
+- [ ] Warn for anything that could make someone dizzy or "motion sick"
+- [ ] Include timestamps for where to skip to to avoid warned content 
 
 #### Perceivable <a name="perceivable" id="jump-nav"></a>
 People should be able see and read even with impaired vision
@@ -154,7 +150,7 @@ People should be able see and read even with impaired vision
 
 #### Operable <a name="operable" id="jump-nav"></a>
 - [ ] Keyboard navigation works ([ref](https://webaim.org/techniques/keyboard/))
-- [ ] Responsive ([ref](https://www.boia.org/blog/responsive-design-and-accessibility))
+- [ ] Responsive design ([ref](https://www.boia.org/blog/responsive-design-and-accessibility))
 - [ ] Works on different devices and browsers ([ref](https://www.w3.org/WAI/people-use-web/abilities-barriers/))
 - [ ] Works with Assistive Technology ([ref](https://www.w3.org/WAI/people-use-web/tools-techniques/))
 
