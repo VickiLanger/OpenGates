@@ -68,18 +68,19 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~normal~~ → **common**, **typical**, **frequent** ([ref](https://medium.com/@leoji/avoid-the-word-normal-and-use-more-words-709fb6a9a11f))
     - [ ] not ~~Crazy, nuts, spaz, insane~~ → **bizarre**, **enormous**, **unfamiliar** ([ref](https://www.selfdefined.app/definitions/crazy/))
     - [ ] not ~~Sanity Check~~ → **confidence check**, **temperature check** ([ref](https://www.selfdefined.app/definitions/sanity-check/))
-    - [ ] not ~~Moron, idiot~~ →   refrain from use ([ref](https://www.selfdefined.app/definitions/idiot/))
+    - [ ] not ~~Moron, idiot~~ → refrain from use ([ref](https://www.selfdefined.app/definitions/idiot/))
     - [ ] not ~~Dumb, stupid~~ → **unreasonable**, **odd** ([ref](https://www.selfdefined.app/definitions/stupid/))
     - [ ] not ~~Derpy~~ → **ridiculous**, **foolish**, **silly** ([ref](https://www.selfdefined.app/definitions/derpy/))
-    - [ ] not ~~R_tard*, *tard~~ →  refrain from use ([ref](https://www.selfdefined.app/definitions/r-word/))
-    - [ ] not ~~Lame, crippled~~ →  **disabled** ([ref](https://www.selfdefined.app/lame/))
+    - [ ] not ~~R_tard*, *tard~~ → refrain from use ([ref](https://www.selfdefined.app/definitions/r-word/))
+    - [ ] not ~~Lame, crippled~~ → **disabled** ([ref](https://www.selfdefined.app/lame/))
     - [ ] not ~~Psychopath, lunatic, maniac~~ →  refrain from use ([ref](https://www.lpaonline.org/the-m-word))
     - [ ] not ~~Junkie~~ → **aficionado**, **fiend**, **enthusiast** ([ref](https://www.selfdefined.app/definitions/junkie/))
     - [ ] not ~~Midget~~ → **Use the person's name**, **short person** ([ref](https://www.lpaonline.org/the-m-word))
     - [ ] not ~~Stand Up~~ → **regular**, **sync**, **meeting** ([ref](https://www.washingtonpost.com/posteverything/wp/2015/05/13/lame-stand-up-and-other-words-we-use-to-insult-the-disabled-without-even-knowing-it/))
 - [ ] Have you used medical diagnoses when not talking about actual medical things? (medical appropriation)
     - [ ] not ~~Obsessive Compulsive Disorder (OCD)~~ → **conscientious**, **meticulous**, **thorough** ([ref](https://www.selfdefined.app/definitions/obsessive-compulsive-disorder/))
-    - [ ] not ~~Bipolar~~ →  **unpredictable**, **flippant** ([ref](https://ibpf.org/articles/please-stop-saying-bipolar-when-you-mean-unpredictable-or-broken/))
+    - [ ] not ~~ADD/ADHD~~ → **unfocused**, **distracted**, **hyperfocused**, **impulsive**  ([ref](https://www.selfdefined.app/definitions/add-adhd/))
+    - [ ] not ~~Bipolar~~ → **unpredictable**, **flippant** ([ref](https://ibpf.org/articles/please-stop-saying-bipolar-when-you-mean-unpredictable-or-broken/))
     - [ ] not ~~Tone deaf~~ → **insensitive**, **in bad taste** ([ref](https://www.selfdefined.app/definitions/tone-deaf/))
 
 #### Race Inclusion <a name="race" id="jump-nav"></a>
@@ -98,7 +99,7 @@ The checklist is **not** in order of importance. It is broken down into sections
 
 #### Age inclusion <a name="age" id="jump-nav"></a>
 - [ ] Ensure explanations will make sense to the age of your audience ([ref](https://www.comm.pitt.edu/oral-comm-lab/audience-analysis))
-- [ ] Avoid assuming in-depth computer knowledge 
+- [ ] Avoid assuming in-depth computer or technical knowledge 
 - [ ] Avoid ageist language ([ref](https://www.apa.org/monitor/2009/06/workplaces))
     - [ ] not ~~So easy Grandma could do it~~ → refrain from use 
     - [ ] not ~~Entitled [insert generation]~~ → refrain from use 
@@ -111,27 +112,31 @@ The checklist is **not** in order of importance. It is broken down into sections
 - [ ] State required knowledge up front. (e.g. "We're assuming your familiar with concepts a, b, and c") 
     - [ ] If concept knowledge is assumed, offer a place to learn those concepts
     - [ ] Did you include anything beyond basic math (+ - * / )? If so, mention that there is a specific math prerequisite
-- [ ] Explain things in ways it will be relatable to as many people as possible ([ref](https://www.catalyst.net.nz/blog/how-explain-things-better-using-analogies))
+- [ ] Explain things in ways so it will be relatable to as many people as possible ([ref](https://www.catalyst.net.nz/blog/how-explain-things-better-using-analogies))
+    - [ ] Ensure technical terms are explained simply for less technically knowledgable audiences
 - [ ] Give things descriptive names. Avoid `x`, `foo`, `bar`, `baz` etc ([ref](https://builtin.com/data-science/variable-names))
     - [ ] Where single letter variable names are common practice (e.g. `i`, `k`, `v`, etc), explain what they stand for ([ref](https://builtin.com/data-science/variable-names))
 - [ ] Did you say something is simplified? Demonstrate what was simplified 
 
-#### For In person Events <a name="events" id="jump-nav"></a>
+#### For In-person Events <a name="events" id="jump-nav"></a>
 - [ ] Discuss Code of Conduct (CoC) on event pages and in opening announcements 
     - [ ] Include event organizer or CoC team contact info if harassment takes place 
 - [ ] Have "no photos" stickers available at badge pickup 
 - [ ] Have pronoun stickers available at badge pickup 
 - [ ] Avoid sexually explicit branding and humor 
 - [ ] Designated sensory-friendly quiet space 
-- [ ] Alcohol should never be the main part of the social hour 
+- [ ] Alcohol should never be the main part of the social hour
+    - [ ] Ensure audience members don't feel pressured to drink
+    - [ ] Similarly, don't shame or demand explanations from members for not drinking 
 - [ ] Warn before discussion/images of triggering/traumatic topics AND allow people to leave ([ref](https://sites.lsa.umich.edu/inclusive-teaching-sandbox/wp-content/uploads/sites/853/2021/02/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-Draft.pdf))
 
 
 ### Accessibility (a11y) is a right <a name="a11y" id="jump-nav"></a>
-Accessibility is a right. Yes, literally it is the law in some countries.
-Many of these items will be guided by: [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/?q=accessibility-law)
+Accessibility is a right. Yes, literally it is the law in some countries. See [Web Accessibility Laws & Policies](https://www.w3.org/WAI/policies/?q=accessibility-law) for details on the accessibility and anti-discrimination laws in your country. In many cases, the accessibility laws follow [WCAG 2.0](https://www.boia.org/wcag-2.0-a/aa-principles-and-checkpoints) standards or a derivative.
+Below are some important considerations to ensure your systems are inclusive and accessible to diverse audiences:
 
 #### Safety <a name="safety" id="jump-nav"></a>
+People with sensory sensitivities or conditions such as epilepsy should be able to engage while avoiding triggers
 - [ ] Warn for rapidly-flashing lights ([ref](https://www.epilepsy.com/learn/triggers-seizures/photosensitivity-and-seizures#:~:text=For%20about%203%25%20of%20people,common%20in%20children%20and%20adolescents))
 - [ ] Warn for loud noises 
 - [ ] Warn for anything that could make someone dizzy or "motion sick"
@@ -146,14 +151,17 @@ People should be able see and read even with impaired vision
 - [ ] Include transcripts for audio content ([ref](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles))
 - [ ] Include subtitles for video content ([ref](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles))
 - [ ] Don't rely on bold/italics/strikethrough to convey meaning ([ref](https://www.tempertemper.net/blog/be-careful-with-strikethrough))
-- [ ] Use `rem` and `em` instead of px ([ref](https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0))
+    - [ ] In HTML, use semantic elements such as `<strong>` and `<em>` to assist screen readers and assistive technology ([ref](https://www.w3.org/WAI/WCAG21/Techniques/html/H49))
+- [ ] Use relative units like `rem` and `em` instead of px ([ref](https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0))
 
 #### Operable <a name="operable" id="jump-nav"></a>
+People who require certain methods of interacting or need different forms of access should be able to engage
 - [ ] Keyboard navigation works ([ref](https://webaim.org/techniques/keyboard/))
 - [ ] Responsive design ([ref](https://www.boia.org/blog/responsive-design-and-accessibility))
 - [ ] Works on different devices and browsers ([ref](https://www.w3.org/WAI/people-use-web/abilities-barriers/))
 - [ ] Works with Assistive Technology ([ref](https://www.w3.org/WAI/people-use-web/tools-techniques/))
 
 #### Organized <a name="organized" id="jump-nav"></a>
-Arranged in a way that makes sense and use language that most people understand
+Content is arranged in a way that makes sense and uses language that most people understand
 - [ ] Headings used appropriately ([ref](https://developer.mozilla.org/en-US/docs/Glossary/Semantics))
+- [ ] Avoid overly technical or domain-specific knowledge where possible, opt for common language that all audiences can understand
