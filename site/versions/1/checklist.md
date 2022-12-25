@@ -79,7 +79,7 @@ The checklist is **not** in order of importance. It is broken down into sections
     - [ ] not ~~Stand Up~~ → **regular**, **sync**, **meeting** ([ref](https://www.washingtonpost.com/posteverything/wp/2015/05/13/lame-stand-up-and-other-words-we-use-to-insult-the-disabled-without-even-knowing-it/))
 - [ ] Have you used medical diagnoses when not talking about actual medical things? (medical appropriation)
     - [ ] not ~~Obsessive Compulsive Disorder (OCD)~~ → **conscientious**, **meticulous**, **thorough** ([ref](https://www.selfdefined.app/definitions/obsessive-compulsive-disorder/))
-    - [ ] not ~~ADD/ADHD~~ → **unfocused**, **distracted**, **hyperfocused**, **impulsive**  ([ref](https://www.selfdefined.app/definitions/add-adhd/))
+    - [ ] not ~~ADD/ADHD~~ → **unfocused**, **distracted** ([ref](https://www.selfdefined.app/definitions/add-adhd/))
     - [ ] not ~~Bipolar~~ → **unpredictable**, **flippant** ([ref](https://ibpf.org/articles/please-stop-saying-bipolar-when-you-mean-unpredictable-or-broken/))
     - [ ] not ~~Tone deaf~~ → **insensitive**, **in bad taste** ([ref](https://www.selfdefined.app/definitions/tone-deaf/))
 
