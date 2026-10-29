@@ -167,6 +167,7 @@ People should be able see and read even with impaired vision
 - [ ] Images have Alternative Text ([ref](https://moz.com/learn/seo/alt-text))
 - [ ] Tested with Screen Reader ([test here](https://webaim.org/simulations/screenreader)) ([ref](https://www.tpgi.com/screen-readers-accessibility-testing/#:~:text=If%20you%20test%20for%20accessibility,a%20poor%20user%20experience%20exists.))
 - [ ] AA or AAA level color contrast ratios ([test here](http://colorsafe.co/))
+- [ ] Identify details on presentation slides with a label, position, or shape as well as colour ([ref](https://light-tracer.com/presentation-pointer-color-hard-to-distinguish/))
 - [ ] Avoid "fancy lettering" and odd capitalisation ([ref](https://www.selfdefined.app/definitions/spongebob-case/))
 - [ ] Include transcripts for audio content ([ref](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles))
 - [ ] Include subtitles for video content ([ref](https://www.w3.org/WAI/media/av/captions/#captions-and-subtitles))
